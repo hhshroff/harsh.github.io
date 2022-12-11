@@ -2,12 +2,10 @@
 require_once('dbConfig.php');
 ?>
 <!DOCTYPE html>
-<!-- This site was created in Webflow. https://www.webflow.com -->
-<!-- Last Published: Fri Nov 25 2022 18:04:42 GMT+0000 (Coordinated Universal Time) -->
-<html data-wf-domain="jacob-template.webflow.io" data-wf-page="62b38327b8e2222d0a0a72b5" data-wf-site="62b38327b8e2220e110a72b0">
+<html data-wf-page="62b38327b8e2222d0a0a72b5" data-wf-site="62b38327b8e2220e110a72b0">
   <head>
     <meta charset="utf-8" />
-    <title>Jacob - Webflow Ecommerce Website Template</title>
+    <title>Home - Harsh Shroff</title>
     <meta content="Impress your future clients or employers with the Jacob template, created for designers looking to have an awesome portfolio design and stand out from the rest — If you&#x27;re looking to boost your personal brand, the Jacob template is the one for you." name="description" />
     <meta content="Jacob - Webflow Ecommerce Website Template" property="og:title" />
     <meta content="Impress your future clients or employers with the Jacob template, created for designers looking to have an awesome portfolio design and stand out from the rest — If you&#x27;re looking to boost your personal brand, the Jacob template is the one for you." property="og:description" />
@@ -28,9 +26,6 @@ require_once('dbConfig.php');
         }
       });
     </script>
-    <!--[if lt IE 9]>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script>
-		<![endif]-->
     <script type="text/javascript">
       ! function(o, c) {
         var n = c.documentElement,
@@ -58,24 +53,6 @@ require_once('dbConfig.php');
                 <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62b4b9cef7e8c4b074416cd3_jacob-black-logo.svg" loading="lazy" alt="Logo - Jacob Webflow Template" class="logo" />
               </div>
             </a>
-            <div class="right-nav-wrapper">
-                <div data-node-type="commerce-cart-container-wrapper" style="display:none" class="w-commerce-commercecartcontainerwrapper w-commerce-commercecartcontainerwrapper--cartType-modal">
-                  <div role="dialog" data-node-type="commerce-cart-container" class="w-commerce-commercecartcontainer">
-                    <div class="w-commerce-commercecartheader cart-header">
-                      <h4 class="w-commerce-commercecartheading heading-small">Your Cart</h4>
-                      <a href="index.html#" data-node-type="commerce-cart-close-link" role="button" aria-label="Close cart" class="w-commerce-commercecartcloselink w-inline-block">
-                        <svg width="16px" height="16px" viewBox="0 0 16 16">
-                          <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                            <g fill-rule="nonzero" fill="#333333">
-                              <polygon points="6.23223305 8 0.616116524 13.6161165 2.38388348 15.3838835 8 9.76776695 13.6161165 15.3838835 15.3838835 13.6161165 9.76776695 8 15.3838835 2.38388348 13.6161165 0.616116524 8 6.23223305 2.38388348 0.616116524 0.616116524 2.38388348 6.23223305 8"></polygon>
-                            </g>
-                          </g>
-                        </svg>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
               <div class="menu-wrapper">
                 <div data-w-id="dc4c56e6-3035-d75f-ac11-3e0a86b79acc" class="menu-trigger">
                   <div class="menu-line top"></div>
@@ -534,186 +511,7 @@ require_once('dbConfig.php');
           </div>
         </section>
       </main>
-      <footer class="section-footer">
-        <div class="elipse-wrapper top-circle">
-          <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c371677865bc6464bf89cf_top-elipse.svg" loading="lazy" data-w-id="4e95a93b-6727-6d76-bc98-c51d026256a5" alt="Assets - Jacob Webflow Template" class="elipse-image" />
-        </div>
-        <div id="w-node-_4e95a93b-6727-6d76-bc98-c51d026256a6-026256a3" class="footer-content background-color-black">
-          <div class="page-padding">
-            <div class="container-large">
-              <div class="padding-vertical padding-huge">
-                <div class="w-layout-grid footer-component-grid">
-                  <div id="w-node-_4e95a93b-6727-6d76-bc98-c51d026256ab-026256a3" class="inner-container">
-                    <a data-w-id="bef8e16e-696a-a709-b450-ec87e2b2acca" href="index.html" aria-current="page" class="logo-link-wrapper w-inline-block w--current">
-                      <div class="wrap-logo">
-                        <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62b38b05e22b7100bb87f0a7_jacob-logo-white.svg" loading="lazy" alt="Logo - Jacob Webflow Template" class="logo" />
-                        <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62b38b05e22b7100bb87f0a7_jacob-logo-white.svg" loading="lazy" alt="Logo - Jacob Webflow Template" class="logo" />
-                      </div>
-                    </a>
-                    <div class="margin-top margin-small">
-                      <div class="max-width-small">
-                        <p class="text-size-regular text-color-light-grey">Impress your future clients or employers with the Jacob template, created for designers looking to have an awesome portfolio design and stand out from the rest — If you&#x27;re looking to boost your personal brand, the Jacob template is the one for you.</p>
-                      </div>
-                    </div>
-                  </div>
-                  <div id="w-node-_4e95a93b-6727-6d76-bc98-c51d026256b1-026256a3" class="inner-container">
-                    <div class="footer-title">Pages</div>
-                    <div class="margin-top margin-small">
-                      <div class="nav-footer-content">
-                        <ul role="list" class="footer-nav w-list-unstyled">
-                          <li class="footer-nav-item">
-                            <a href="index.html" data-w-id="4e95a93b-6727-6d76-bc98-c51d026256b8" aria-current="page" class="footer-nav-link w-inline-block w--current">
-                              <div class="button-text-wrapper">
-                                <div class="text-nav-footer">Home</div>
-                                <div class="text-nav-footer">Home</div>
-                              </div>
-                            </a>
-                          </li>
-                          <li class="footer-nav-item">
-                            <a href="about.html" data-w-id="4e95a93b-6727-6d76-bc98-c51d026256bf" class="footer-nav-link w-inline-block">
-                              <div class="button-text-wrapper">
-                                <div class="text-nav-footer">About</div>
-                                <div class="text-nav-footer">About</div>
-                              </div>
-                            </a>
-                          </li>
-                          <li class="footer-nav-item">
-                            <a href="works.html" data-w-id="4e95a93b-6727-6d76-bc98-c51d026256c6" class="footer-nav-link w-inline-block">
-                              <div class="button-text-wrapper">
-                                <div class="text-nav-footer">Works</div>
-                                <div class="text-nav-footer">Works</div>
-                              </div>
-                            </a>
-                          </li>
-                          <li class="footer-nav-item">
-                            <a href="hire-me.html" data-w-id="4e95a93b-6727-6d76-bc98-c51d026256cd" class="footer-nav-link w-inline-block">
-                              <div class="button-text-wrapper">
-                                <div class="text-nav-footer">Hire Me</div>
-                                <div class="text-nav-footer">Hire Me</div>
-                              </div>
-                            </a>
-                          </li>
-                          <li class="footer-nav-item">
-                            <a href="blog.html" data-w-id="4e95a93b-6727-6d76-bc98-c51d026256d4" class="footer-nav-link w-inline-block">
-                              <div class="button-text-wrapper">
-                                <div class="text-nav-footer">Blog</div>
-                                <div class="text-nav-footer">Blog</div>
-                              </div>
-                            </a>
-                          </li>
-                          <li class="footer-nav-item">
-                            <a href="contact.html" data-w-id="4e95a93b-6727-6d76-bc98-c51d026256db" class="footer-nav-link w-inline-block">
-                              <div class="button-text-wrapper">
-                                <div class="text-nav-footer">Contact</div>
-                                <div class="text-nav-footer">Contact</div>
-                              </div>
-                            </a>
-                          </li>
-                        </ul>
-                      </div>
-                    </div>
-                  </div>
-                  <div id="w-node-_4e95a93b-6727-6d76-bc98-c51d026256e1-026256a3" class="inner-container">
-                    <div class="footer-title">Utility Pages</div>
-                    <div class="margin-top margin-small">
-                      <div class="nav-footer-content">
-                        <ul role="list" class="footer-nav w-list-unstyled">
-                          <li class="footer-nav-item">
-                            <a href="utility-pages/instructions.html" data-w-id="4e95a93b-6727-6d76-bc98-c51d026256fd" class="footer-nav-link w-inline-block">
-                              <div class="button-text-wrapper">
-                                <div class="text-nav-footer">Instructions</div>
-                                <div class="text-nav-footer">Instructions</div>
-                              </div>
-                            </a>
-                          </li>
-                          <li class="footer-nav-item">
-                            <a href="utility-pages/style-guide.html" data-w-id="4e95a93b-6727-6d76-bc98-c51d026256e8" class="footer-nav-link w-inline-block">
-                              <div class="button-text-wrapper">
-                                <div class="text-nav-footer">Style Guide</div>
-                                <div class="text-nav-footer">Style Guide</div>
-                              </div>
-                            </a>
-                          </li>
-                          <li class="footer-nav-item">
-                            <a href="utility-pages/licenses.html" data-w-id="4e95a93b-6727-6d76-bc98-c51d026256ef" class="footer-nav-link w-inline-block">
-                              <div class="button-text-wrapper">
-                                <div class="text-nav-footer">Licenses</div>
-                                <div class="text-nav-footer">Licenses</div>
-                              </div>
-                            </a>
-                          </li>
-                          <li class="footer-nav-item">
-                            <a href="utility-pages/changelog.html" data-w-id="4e95a93b-6727-6d76-bc98-c51d026256f6" class="footer-nav-link w-inline-block">
-                              <div class="button-text-wrapper">
-                                <div class="text-nav-footer">Changelog</div>
-                                <div class="text-nav-footer">Changelog</div>
-                              </div>
-                            </a>
-                          </li>
-                          <li class="footer-nav-item">
-                            <a href="404.html" data-w-id="4e95a93b-6727-6d76-bc98-c51d02625704" class="footer-nav-link w-inline-block">
-                              <div class="button-text-wrapper">
-                                <div class="text-nav-footer">404 Not Found</div>
-                                <div class="text-nav-footer">404 Not Found</div>
-                              </div>
-                            </a>
-                          </li>
-                          <li class="footer-nav-item">
-                            <a href="401.html" data-w-id="4e95a93b-6727-6d76-bc98-c51d0262570b" class="footer-nav-link w-inline-block">
-                              <div class="button-text-wrapper">
-                                <div class="text-nav-footer">Password Protected</div>
-                                <div class="text-nav-footer">Password Protected</div>
-                              </div>
-                            </a>
-                          </li>
-                        </ul>
-                      </div>
-                    </div>
-                  </div>
-                  <div id="w-node-_4e95a93b-6727-6d76-bc98-c51d02625711-026256a3" class="inner-container">
-                    <div class="footer-title">Contact</div>
-                    <div class="margin-top margin-small">
-                      <div class="nav-footer-content">
-                        <ul role="list" class="footer-nav w-list-unstyled">
-                          <li class="footer-nav-item">
-                            <div class="text-nav-footer">hello@jacob.com</div>
-                          </li>
-                          <li class="footer-nav-item">
-                            <div class="text-nav-footer">+44 20 1234 5678</div>
-                          </li>
-                        </ul>
-                      </div>
-                    </div>
-                    <div class="w-layout-grid social-media-component footer">
-                      <div id="w-node-_4e95a93b-6727-6d76-bc98-c51d02625726-026256a3" class="social-link-wrapper">
-                        <a id="w-node-_4e95a93b-6727-6d76-bc98-c51d02625727-026256a3" href="https://www.linkedin.com/" target="_blank" class="social-link w-inline-block">
-                          <div></div>
-                        </a>
-                      </div>
-                      <div id="w-node-_4e95a93b-6727-6d76-bc98-c51d0262572a-026256a3" class="social-link-wrapper">
-                        <a id="w-node-_4e95a93b-6727-6d76-bc98-c51d0262572b-026256a3" href="https://behance.net/" target="_blank" class="social-link w-inline-block">
-                          <div></div>
-                        </a>
-                      </div>
-                      <div id="w-node-_4e95a93b-6727-6d76-bc98-c51d0262572e-026256a3" class="social-link-wrapper">
-                        <a id="w-node-_4e95a93b-6727-6d76-bc98-c51d0262572f-026256a3" href="https://twitter.com/" target="_blank" class="social-link w-inline-block">
-                          <div></div>
-                        </a>
-                      </div>
-                      <div id="w-node-_4e95a93b-6727-6d76-bc98-c51d02625732-026256a3" class="social-link-wrapper">
-                        <a id="w-node-_4e95a93b-6727-6d76-bc98-c51d02625733-026256a3" href="https://facebook.com/" target="_blank" class="social-link w-inline-block">
-                          <div></div>
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <?php getFooter(); ?>
-            </div>
-          </div>
-        </div>
-      </footer>
+      <?php getFooter(); ?>
     </div>
     <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
     <script src="assets/js/main.js" type="text/javascript"></script>
