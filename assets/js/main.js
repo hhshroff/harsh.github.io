@@ -1,10 +1,3 @@
-/*!
- * Webflow: Front-end site library
- * @license MIT
- * Inline scripts may access the api using an async handler:
- *   var Webflow = Webflow || [];
- *   Webflow.push(readyFunction);
- */
 ! function(e) {
 	var t = {};
 
@@ -27197,10 +27190,10 @@
 		return n.ready = function() {
 			var n, r, a, s = o.attr("data-wf-status"),
 				p = o.attr("data-wf-domain") || "";
-			/\.webflow\.io$/i.test(p) && c.hostname !== p && (s = !0), s && !u && (t = t || (n = e, r = e("<img>").attr("src", "https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-icon.f67cd735e3.svg").attr("alt", "").css({
+			/\.webflow\.io$/i.test(p) && c.hostname !== p && (s = !0), s && !u && (t = t || (n = e, r = e("<img>").attr("src", "assets/images/me.png").attr("alt", "").css({
 				marginRight: "8px",
 				width: "16px"
-			}), a = e("<img>").attr("src", "https://d1otoma47x30pg.cloudfront.net/img/webflow-badge-text.6faa6a38cd.svg").attr("alt", "Made in Webflow"), n.append(r, a), n[0]), d(), setTimeout(d, 500), e(i).off(l, f).on(l, f))
+			}), a = e("<img>").attr("src", "assets/images/me.png").attr("alt", "Made by Harsh Shroff"), n.append(r, a), n[0]), d(), setTimeout(d, 500), e(i).off(l, f).on(l, f))
 		}, n
 	})
 }, function(e, t, n) {

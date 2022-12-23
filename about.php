@@ -1,6 +1,4 @@
 <!DOCTYPE html>
-<!-- This site was created in Webflow. https://www.webflow.com -->
-<!-- Last Published: Fri Nov 25 2022 18:04:42 GMT+0000 (Coordinated Universal Time) -->
 <html data-wf-domain="jacob-template.webflow.io" data-wf-page="62bcfa88bdc3205358ca6daa" data-wf-site="62b38327b8e2220e110a72b0">
   <head>
     <meta charset="utf-8" />
@@ -414,7 +412,7 @@
               <div class="header-component about">
                 <div class="header-content-wrapper about">
                   <div class="overflow-hidden">
-                    <h1 class="heading-huge text-color-dim-grey">i&#x27;m award-</h1>
+                    <h1 class="heading-huge text-color-dim-grey">Secure-</h1>
                   </div>
                   <div class="header-image-wrapper">
                     <div class="overflow-image">
@@ -422,10 +420,10 @@
                     </div>
                   </div>
                   <div class="overflow-hidden">
-                    <h1 style="-webkit-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);-moz-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);-ms-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg)" class="heading-huge">winning,</h1>
+                    <h1 style="-webkit-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);-moz-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);-ms-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg)" class="heading-huge">your digital,</h1>
                   </div>
                   <div class="overflow-hidden">
-                    <h1 style="-webkit-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);-moz-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);-ms-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg)" class="heading-huge">digital</h1>
+                    <h1 style="-webkit-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);-moz-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);-ms-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg)" class="heading-huge">world</h1>
                   </div>
                   <div class="header-image-wrapper image-center">
                     <div class="overflow-image">
@@ -433,10 +431,10 @@
                     </div>
                   </div>
                   <div class="overflow-hidden">
-                    <h1 class="heading-huge text-color-dim-grey">Designer</h1>
+                    <h1 class="heading-huge text-color-dim-grey">with me</h1>
                   </div>
                   <div class="overflow-hidden">
-                    <h1 style="-webkit-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);-moz-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);-ms-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg)" class="heading-huge">specialized </h1>
+                    <h1 style="-webkit-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);-moz-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);-ms-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg)" class="heading-huge">at the</h1>
                   </div>
                   <div class="header-image-wrapper">
                     <div class="overflow-image">
@@ -444,7 +442,7 @@
                     </div>
                   </div>
                   <div class="overflow-hidden">
-                    <h1 class="heading-huge text-color-dim-grey">in ui/ux.</h1>
+                    <h1 class="heading-huge text-color-dim-grey">helm.</h1>
                   </div>
                 </div>
               </div>
@@ -464,17 +462,16 @@
                       <div class="overflow-hidden">
                         <div data-w-id="308f80d3-ec47-53a6-bf8a-7d7b01103688" style="-webkit-transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg);-moz-transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg);-ms-transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg);transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg)" class="horizontal-flex">
                           <div class="inner-content relative">
-                            <h1 class="heading-xlarge text-color-white">jacob</h1>
-                            <div class="copyright about-me">©</div>
+                            <h1 class="heading-xlarge text-color-white">Harsh</h1>
                           </div>
                         </div>
                       </div>
                       <div class="overflow-hidden">
-                        <h1 data-w-id="37b00aa5-cd66-07d5-903e-121eebdf8a5a" style="-webkit-transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg);-moz-transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg);-ms-transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg);transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg)" class="heading-medium text-color-grey">james</h1>
+                        <h1 data-w-id="37b00aa5-cd66-07d5-903e-121eebdf8a5a" style="-webkit-transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg);-moz-transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg);-ms-transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg);transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg)" class="heading-medium text-color-grey">Shroff</h1>
                       </div>
                     </div>
                     <div id="w-node-_38b1ab8f-a044-52ec-0041-d740442c2b74-58ca6daa" class="inner-container">
-                      <p class="text-size-regular text-color-light-grey">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet elementum. </p>
+                      <p class="text-size-regular text-color-light-grey">As a computer science specialist, I have a deep understanding of the latest technologies and techniques used in the field. I have applied this knowledge to the development of innovative products and services at técrave, which have helped to differentiate the company from its competitors.</p>
                     </div>
                     <div id="w-node-_16664637-24b2-47fa-1a54-77a778b64bb6-58ca6daa" class="inner-container">
                       <p class="text-size-regular text-color-light-grey">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet elementum.</p>
@@ -995,8 +992,8 @@
         </div>
       </footer>
     </div>
-    <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=62b38327b8e2220e110a72b0" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
-    <script src="https://assets.website-files.com/62b38327b8e2220e110a72b0/js/webflow.57a032f0d.js" type="text/javascript"></script>
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+    <script src="assets/js/main.js" type="text/javascript"></script>
     <!--[if lte IE 9]>
 		<script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script>
 		<![endif]-->
