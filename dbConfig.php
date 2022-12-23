@@ -12,13 +12,14 @@ function getFooter(){
               <div id="w-node-_4e95a93b-6727-6d76-bc98-c51d026256ab-026256a3" class="inner-container">
                 <a data-w-id="bef8e16e-696a-a709-b450-ec87e2b2acca" href="index.html" class="logo-link-wrapper w-inline-block">
                   <div class="wrap-logo">
-                    <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62b38b05e22b7100bb87f0a7_jacob-logo-white.svg" loading="lazy" alt="Logo - Jacob Webflow Template" class="logo" />
-                    <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62b38b05e22b7100bb87f0a7_jacob-logo-white.svg" loading="lazy" alt="Logo - Jacob Webflow Template" class="logo" />
+                    <img src="assets/images/logo-white.svg" loading="lazy" alt="Logo - Jacob Webflow Template" class="logo" />
+                    <img src="assets/images/logo-white.svg" loading="lazy" alt="Logo - Jacob Webflow Template" class="logo" />
                   </div>
                 </a>
                 <div class="margin-top margin-small">
                   <div class="max-width-small">
-                    <p class="text-size-regular text-color-light-grey">Impress your future clients or employers with the Jacob template, created for designers looking to have an awesome portfolio design and stand out from the rest — If you&#x27;re looking to boost your personal brand, the Jacob template is the one for you.</p>
+                    <p class="text-size-regular text-color-light-grey">I am always looking to connect with other professionals in the field of cyber security, and I welcome the opportunity to discuss potential collaborations or partnerships. </p>
+                    <p class="text-size-regular text-color-grey">Thank you for taking the time to learn more about me. I look forward to connecting with you and working together to protect against cyber threats.</p>
                   </div>
                 </div>
               </div>
@@ -142,10 +143,10 @@ function getFooter(){
                   <div class="nav-footer-content">
                     <ul role="list" class="footer-nav w-list-unstyled">
                       <li class="footer-nav-item">
-                        <div class="text-nav-footer">hello@jacob.com</div>
+                        <div class="text-nav-footer">hello@harshshroff.com</div>
                       </li>
                       <li class="footer-nav-item">
-                        <div class="text-nav-footer">+44 20 1234 5678</div>
+                        <div class="text-nav-footer">+1 (408) 706 4692 </div>
                       </li>
                     </ul>
                   </div>
@@ -178,17 +179,17 @@ function getFooter(){
           <div class="footer-bottom">
             <div class="inner-content text-align-center">
               <div class="link-footer-wrapper">
-                <div class="text-size-small text-color-grey">© Jacob — Powered by</div>
-                <a href="https://webflow.com/" target="_blank" class="link-footer w-inline-block">
-                  <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c76c28f4518a06e3eb518c_webflow-logo-white.svg" loading="lazy" alt="Webflow Logo - Jacob Webflow Template" class="webflow-logo" />
+                <div class="text-size-small text-color-grey">Powered by</div>
+                <a href="https://tecrave.in" target="_blank" class="link-footer w-inline-block">
+                  <img src="assets/images/tecrave.png" loading="lazy" alt="tecrave" class="webflow-logo" />
                 </a>
               </div>
             </div>
             <div class="inner-content text-align-center">
               <div class="link-footer-wrapper">
                 <div class="text-size-small text-color-grey">Made by</div>
-                <a href="https://elison.webflow.io/" target="_blank" class="link-footer w-inline-block">
-                  <div>Elison Santos</div>
+                <a href="https://harshshroff.com" target="_blank" class="link-footer w-inline-block">
+                  <div>Harsh Shroff</div>
                 </a>
               </div>
             </div>

@@ -40,7 +40,7 @@ require_once('dbConfig.php');
     <div class="page-wrapper">
       <div style="display:block;-webkit-transform:translate3d(0, 0vh, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0vh, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0vh, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0vh, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="preloader">
         <div class="preloader-content">
-          <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62b4b9cef7e8c4b074416cd3_jacob-black-logo.svg" loading="lazy" style="opacity:0" alt="Logo - Jacob Webflow Template" class="logo-preloader" />
+          <img src="assets/images/logo-black.svg" loading="lazy" style="opacity:0" alt="Logo - Jacob Webflow Template" class="logo-preloader" />
         </div>
         <div data-is-ix2-target="1" class="lottie-bottom" data-w-id="01ea7619-e1df-b191-2bcf-f1a6fa59e2a0" data-animation-type="lottie" data-src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62cf13de1cc1462aa90c2ece_bottom-lottie.json" data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg" data-default-duration="1.5666666666666667" data-duration="0" data-ix2-initial-state="50"></div>
       </div>
@@ -49,8 +49,8 @@ require_once('dbConfig.php');
           <div class="nav-container">
             <a data-w-id="dc4c56e6-3035-d75f-ac11-3e0a86b79ac7" href="index.html" aria-current="page" class="logo-link-wrapper w-inline-block w--current">
               <div class="wrap-logo">
-                <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62b4b9cef7e8c4b074416cd3_jacob-black-logo.svg" loading="lazy" alt="Logo - Jacob Webflow Template" class="logo" />
-                <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62b4b9cef7e8c4b074416cd3_jacob-black-logo.svg" loading="lazy" alt="Logo - Jacob Webflow Template" class="logo" />
+                <img src="assets/images/logo-black.svg" loading="lazy" alt="Logo - Jacob Webflow Template" class="logo" />
+                <img src="assets/images/logo-black.svg" loading="lazy" alt="Logo - Jacob Webflow Template" class="logo" />
               </div>
             </a>
               <div class="menu-wrapper">
@@ -181,14 +181,14 @@ require_once('dbConfig.php');
                   </div>
                   <div class="header-image-wrapper">
                     <div class="overflow-image">
-                      <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c33175ce65a8469ef5fe3e_img-jacob-home.jpg" loading="lazy" style="-webkit-transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg);-moz-transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg);-ms-transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg);transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg)" srcset="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c33175ce65a8469ef5fe3e_img-jacob-home-p-500.jpeg 500w, https://assets.website-files.com/62b38327b8e2220e110a72b0/62c33175ce65a8469ef5fe3e_img-jacob-home-p-800.jpeg 800w, https://assets.website-files.com/62b38327b8e2220e110a72b0/62c33175ce65a8469ef5fe3e_img-jacob-home.jpg 1080w" sizes="(max-width: 479px) 17vw, (max-width: 767px) 13vw, 92.79166412353516px" alt="Licenced Image - Jacob Webflow Template" class="fit-cover-image circle-image" />
+                      <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c33175ce65a8469ef5fe3e_img-jacob-home.jpg" loading="lazy" style="-webkit-transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg);-moz-transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg);-ms-transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg);transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg)" srcset="assets/images/me.jpg 500w, https://assets.website-files.com/62b38327b8e2220e110a72b0/62c33175ce65a8469ef5fe3e_img-jacob-home-p-800.jpeg 800w, https://assets.website-files.com/62b38327b8e2220e110a72b0/62c33175ce65a8469ef5fe3e_img-jacob-home.jpg 1080w" sizes="(max-width: 479px) 17vw, (max-width: 767px) 13vw, 92.79166412353516px" alt="Licenced Image - Jacob Webflow Template" class="fit-cover-image circle-image" />
                     </div>
                   </div>
                   <div class="overflow-hidden">
                     <h1 style="-webkit-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);-moz-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);-ms-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg)" class="heading-huge">Shroff,</h1>
                   </div>
                   <div class="overflow-hidden">
-                    <h1 style="-webkit-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);-moz-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);-ms-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg)" class="heading-huge">a digital</h1>
+                    <h1 style="-webkit-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);-moz-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);-ms-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg)" class="heading-huge">a cyber security</h1>
                   </div>
                   <div class="header-image-wrapper image-center">
                     <div class="overflow-image">
@@ -196,7 +196,7 @@ require_once('dbConfig.php');
                     </div>
                   </div>
                   <div class="overflow-hidden">
-                    <h1 class="heading-huge text-color-dim-grey">Designer</h1>
+                    <h1 class="heading-huge text-color-dim-grey">specialist</h1>
                   </div>
                   <div class="header-image-wrapper">
                     <div class="overflow-image">
@@ -207,7 +207,7 @@ require_once('dbConfig.php');
                     <h1 class="heading-huge text-color-dim-grey">from </h1>
                   </div>
                   <div class="overflow-hidden">
-                    <h1 style="-webkit-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);-moz-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);-ms-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg)" class="heading-huge">London</h1>
+                    <h1 style="-webkit-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);-moz-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);-ms-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg)" class="heading-huge">India</h1>
                   </div>
                 </div>
                 <div class="button-header-wrapper">
@@ -236,12 +236,12 @@ require_once('dbConfig.php');
                   <div class="about-content-wrapper">
                     <div class="w-layout-grid about-home-component">
                       <div id="w-node-_0d37b9df-8b52-d0e2-1c94-8c8c3b864417-0a0a72b5" class="overflow-hidden text-align-center">
-                        <h2 data-w-id="51934238-06ca-88bb-8b13-cc625efcf35e" style="-webkit-transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg);-moz-transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg);-ms-transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg);transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg)" class="heading-xlarge text-color-white text-breaking-no-wrap">i craft wonderful</h2>
+                        <h2 data-w-id="51934238-06ca-88bb-8b13-cc625efcf35e" style="-webkit-transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg);-moz-transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg);-ms-transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg);transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg)" class="heading-xlarge text-color-white text-breaking-no-wrap">i develop</h2>
                       </div>
                       <div id="w-node-_9e36507a-faa5-9fea-b183-824f1e3be3f1-0a0a72b5" class="overflow-hidden text-align-center">
                         <div id="w-node-_9025ba59-f4eb-a731-6d2d-52f73bbb8464-0a0a72b5" class="horizontal-flex">
                           <div data-w-id="36489412-4c91-eb02-1f96-3148fe6d8f38" style="opacity:0" class="line"></div>
-                          <h2 data-w-id="9e36507a-faa5-9fea-b183-824f1e3be3f2" style="-webkit-transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg);-moz-transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg);-ms-transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg);transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg)" class="heading-xlarge text-color-white text-breaking-no-wrap">digital experiences</h2>
+                          <h2 data-w-id="9e36507a-faa5-9fea-b183-824f1e3be3f2" style="-webkit-transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg);-moz-transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg);-ms-transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg);transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg)" class="heading-xlarge text-color-white text-breaking-no-wrap">cyber solutins</h2>
                         </div>
                       </div>
                       <div id="w-node-_8e52e91a-1957-e126-96f0-d7e8d7391132-0a0a72b5" class="overflow-hidden text-align-center">
@@ -254,7 +254,7 @@ require_once('dbConfig.php');
                     <div class="margin-top margin-large">
                       <div id="w-node-_8be51935-208c-57ea-bcc8-f3d4ddb1eb43-0a0a72b5" class="w-layout-grid about-me-component-grid">
                         <div id="w-node-a146c29a-0f1d-35b3-e7e8-cc5334a07ef8-0a0a72b5" class="inner-content">
-                          <p class="text-size-large text-color-light-grey">Lorem ipsum dolor sit amet in quis, consectetur eros adipiscing et elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, quis viverra ornare, eros dolor et interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.</p>
+                          <p class="text-size-large text-color-light-grey">As a cyber security specialist with over 5 years of experience in the field, I have a deep understanding of the latest technologies and techniques used to protect against cyber threats. My portfolio showcases a range of projects and certifications that demonstrate my expertise in areas such as network security, penetration testing, and incident response.</p>
                         </div>
                         <div id="w-node-_577af78c-d9ca-df79-c852-3ab98bd39eb3-0a0a72b5" class="inner-content">
                           <a id="w-node-_577af78c-d9ca-df79-c852-3ab98bd39eb4-0a0a72b5" data-w-id="577af78c-d9ca-df79-c852-3ab98bd39eb4" href="about.html" class="link-wrapper about-me w-inline-block">
@@ -294,10 +294,10 @@ require_once('dbConfig.php');
                       <div class="circle-icon _2"></div>
                       <div class="circle-icon _3"></div>
                     </div>
-                    <div class="text-size-large text-weight-semibold text-color-dark-grey">Concept</div>
+                    <div class="text-size-large text-weight-semibold text-color-dark-grey">Reconnaissance</div>
                     <div class="margin-top margin-small">
                       <div class="max-width-small">
-                        <p class="text-size-regular text-color-grey">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, quis viverra ornare libero vitae.</p>
+                        <p class="text-size-regular text-color-grey">I identify potential weaknesses that could be exploited by gathering information about a target. This could include identifying open ports on a network, discovering default passwords, or finding unsecured web pages.</p>
                       </div>
                     </div>
                   </div>
@@ -307,10 +307,10 @@ require_once('dbConfig.php');
                       <div class="circle-icon _5"></div>
                       <div class="circle-icon _6"></div>
                     </div>
-                    <div class="text-size-large text-weight-semibold text-color-dark-grey">Product Design</div>
+                    <div class="text-size-large text-weight-semibold text-color-dark-grey">Security Analysis</div>
                     <div class="margin-top margin-small">
                       <div class="max-width-small">
-                        <p class="text-size-regular text-color-grey">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, quis viverra ornare libero vitae.</p>
+                        <p class="text-size-regular text-color-grey">By assessing the risks posed by vulnerabilities, I help organizations prioritize their efforts to mitigate those risks. This involves prioritizing high-risk vulnerabilities for immediate attention or developing contingency plans in case an attack occurs.</p>
                       </div>
                     </div>
                   </div>
@@ -320,10 +320,10 @@ require_once('dbConfig.php');
                       <div class="circle-icon _8"></div>
                       <div class="circle-icon _9"></div>
                     </div>
-                    <div class="text-size-large text-weight-semibold text-color-dark-grey">Graphic Design</div>
+                    <div class="text-size-large text-weight-semibold text-color-dark-grey">Improve Security</div>
                     <div class="margin-top margin-small">
                       <div class="max-width-small">
-                        <p class="text-size-regular text-color-grey">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, quis viverra ornare libero vitae.</p>
+                        <p class="text-size-regular text-color-grey">By identifying and highlighting potential vulnerabilities, I help organizations improve their security posture. This involves recommending patches or updates to systems, implementing new security protocols, or providing training to employees on how to protect against cyber threats.</p>
                       </div>
                     </div>
                   </div>
@@ -437,7 +437,7 @@ require_once('dbConfig.php');
                 <div data-w-id="6742d3e1-ea51-702f-50ac-d041f3752054" class="cta-content-wrapper">
                   <div class="header-image-wrapper">
                     <div class="overflow-image">
-                      <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c30aa9934c9cbd52b841b5_img-about-jacob.png" loading="lazy" srcset="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c30aa9934c9cbd52b841b5_img-about-jacob-p-500.png 500w, https://assets.website-files.com/62b38327b8e2220e110a72b0/62c30aa9934c9cbd52b841b5_img-about-jacob-p-800.png 800w, https://assets.website-files.com/62b38327b8e2220e110a72b0/62c30aa9934c9cbd52b841b5_img-about-jacob.png 1080w" sizes="(max-width: 479px) 17vw, (max-width: 767px) 13vw, 92.79166412353516px" alt="About - Jacob Webflow Template" class="cta-image" />
+                      <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c30aa9934c9cbd52b841b5_img-about-jacob.png" loading="lazy" srcset="assets/images/me.jpg 500w, https://assets.website-files.com/62b38327b8e2220e110a72b0/62c30aa9934c9cbd52b841b5_img-about-jacob-p-800.png 800w, https://assets.website-files.com/62b38327b8e2220e110a72b0/62c30aa9934c9cbd52b841b5_img-about-jacob.png 1080w" sizes="(max-width: 479px) 17vw, (max-width: 767px) 13vw, 92.79166412353516px" alt="About - Jacob Webflow Template" class="cta-image" />
                     </div>
                   </div>
                   <div class="overflow-hidden">
