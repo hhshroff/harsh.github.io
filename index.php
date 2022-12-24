@@ -26,15 +26,8 @@ require_once('dbConfig.php');
         }
       });
     </script>
-    <script type="text/javascript">
-      ! function(o, c) {
-        var n = c.documentElement,
-          t = " w-mod-";
-        n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
-      }(window, document);
-    </script>
-    <link href="https://assets.website-files.com/62b38327b8e2220e110a72b0/62d7eea49028bcad821353d4_favicon-jacob.svg" rel="shortcut icon" type="image/x-icon" />
-    <link href="https://assets.website-files.com/62b38327b8e2220e110a72b0/62d7eef1d60dea31c930a60e_webclip-jacob.svg" rel="apple-touch-icon" />
+    <link href="assets/images/favicon.svg" rel="shortcut icon" type="image/x-icon" />
+    <link href="assets/images/favicon.svg" rel="apple-touch-icon" />
   </head>
   <body>
     <div class="page-wrapper">
@@ -53,7 +46,7 @@ require_once('dbConfig.php');
                   </div>
                   <div class="header-image-wrapper">
                     <div class="overflow-image">
-                      <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c33175ce65a8469ef5fe3e_img-jacob-home.jpg" loading="lazy" style="-webkit-transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg);-moz-transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg);-ms-transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg);transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg)" srcset="assets/images/me.jpg 500w, https://assets.website-files.com/62b38327b8e2220e110a72b0/62c33175ce65a8469ef5fe3e_img-jacob-home-p-800.jpeg 800w, https://assets.website-files.com/62b38327b8e2220e110a72b0/62c33175ce65a8469ef5fe3e_img-jacob-home.jpg 1080w" sizes="(max-width: 479px) 17vw, (max-width: 767px) 13vw, 92.79166412353516px" alt="Licenced Image - Jacob Webflow Template" class="fit-cover-image circle-image" />
+                      <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c33175ce65a8469ef5fe3e_img-jacob-home.jpg" loading="lazy" style="-webkit-transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg);-moz-transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg);-ms-transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg);transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg)" srcset="assets/images/harsh/2.jpg 500w, https://assets.website-files.com/62b38327b8e2220e110a72b0/62c33175ce65a8469ef5fe3e_img-jacob-home-p-800.jpeg 800w, https://assets.website-files.com/62b38327b8e2220e110a72b0/62c33175ce65a8469ef5fe3e_img-jacob-home.jpg 1080w" sizes="(max-width: 479px) 17vw, (max-width: 767px) 13vw, 92.79166412353516px" alt="Licenced Image - Harsh Shroff" class="fit-cover-image circle-image" />
                     </div>
                   </div>
                   <div class="overflow-hidden">
@@ -64,7 +57,7 @@ require_once('dbConfig.php');
                   </div>
                   <div class="header-image-wrapper image-center">
                     <div class="overflow-image">
-                      <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c32254691e24d1c6059251_img-about-header.jpg" loading="lazy" style="-webkit-transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg);-moz-transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg);-ms-transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg);transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg)" srcset="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c32254691e24d1c6059251_img-about-header-p-500.jpeg 500w, https://assets.website-files.com/62b38327b8e2220e110a72b0/62c32254691e24d1c6059251_img-about-header-p-800.jpeg 800w, https://assets.website-files.com/62b38327b8e2220e110a72b0/62c32254691e24d1c6059251_img-about-header.jpg 1080w" sizes="(max-width: 479px) 27vw, (max-width: 767px) 22vw, 128px" alt="Licenced Image - Jacob Webflow Template" class="cover-image" />
+                      <img src="assets/images/harsh/1.png" loading="lazy" style="-webkit-transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg);-moz-transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg);-ms-transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg);transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg)" srcset="assets/images/harsh/1.png 500w, assets/images/harsh/1.png 800w, assets/images/harsh/1.png 1080w" sizes="(max-width: 479px) 27vw, (max-width: 767px) 22vw, 128px" alt="Licenced Image - Harsh Shroff" class="cover-image" />
                     </div>
                   </div>
                   <div class="overflow-hidden">
@@ -83,12 +76,12 @@ require_once('dbConfig.php');
                   </div>
                 </div>
                 <div class="button-header-wrapper">
-                  <a data-w-id="7766730a-b695-8101-e607-d25f05997a4e" style="background-color:rgb(16,17,24);opacity:0;-webkit-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" href="works.html" class="button w-inline-block">
+                  <a data-w-id="7766730a-b695-8101-e607-d25f05997a4e" style="background-color:rgb(16,17,24);opacity:0;-webkit-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.9, 0.9, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" href="work" class="button w-inline-block">
                     <div style="-webkit-transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="text-button-1">view all works</div>
                     <div style="-webkit-transform:translate3d(0, 50PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 50PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 50PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 50PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);color:rgb(255,255,255)" class="text-button-2">view all works</div>
                   </a>
                   <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(0.1, 0.1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.1, 0.1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.1, 0.1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.1, 0.1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="button-divider-line"></div>
-                  <a data-w-id="d75d1fc3-c0eb-25bd-787a-c7253f61de86" style="background-color:rgba(0,0,0,0)" href="about.html" class="button outline w-inline-block">
+                  <a data-w-id="d75d1fc3-c0eb-25bd-787a-c7253f61de86" style="background-color:rgba(0,0,0,0)" href="contact" class="button outline w-inline-block">
                     <div style="-webkit-transform:translate3d(0, 0px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="text-button-1 text-color-black">Get in touch</div>
                     <div style="-webkit-transform:translate3d(0, 50px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 50px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 50px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 50px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);color:rgb(16,17,24)" class="text-button-2 text-color-black">Get in touch</div>
                   </a>
@@ -99,7 +92,7 @@ require_once('dbConfig.php');
         </header>
         <section class="section-home-about-me">
           <div class="elipse-wrapper">
-            <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62bbba8f912d9c69965b7cd7_elipse-divider.svg" loading="lazy" data-w-id="8c567a19-8958-c603-29e1-86526ab067ef" alt="Assets - Jacob Webflow Template" class="elipse-image" />
+            <img src="assets/images/icons/elipse-divider.svg" loading="lazy" data-w-id="8c567a19-8958-c603-29e1-86526ab067ef" alt="Assets - Harsh Shroff" class="elipse-image" />
           </div>
           <div class="about-me-content-wrapper background-color-black">
             <div class="page-padding">
@@ -119,7 +112,7 @@ require_once('dbConfig.php');
                       <div id="w-node-_8e52e91a-1957-e126-96f0-d7e8d7391132-0a0a72b5" class="overflow-hidden text-align-center">
                         <div id="w-node-_80ad4c39-0f44-cb2c-e74c-bab327f6fac6-0a0a72b5" class="horizontal-flex">
                           <h2 data-w-id="8e52e91a-1957-e126-96f0-d7e8d7391133" style="-webkit-transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg);-moz-transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg);-ms-transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg);transform:translate3d(0, 170%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 5deg)" class="heading-xlarge text-color-white text-breaking-no-wrap">for brands</h2>
-                          <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c82797debd3c6beaaa33ef_star%20icon.svg" loading="lazy" style="opacity:0" data-w-id="3c2edcbe-e32a-35f4-2f5d-b096a010eb78" alt="Star Icon - Jacob Webflow Template" class="icon-xsmall about-me" />
+                          <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c82797debd3c6beaaa33ef_star%20icon.svg" loading="lazy" style="opacity:0" data-w-id="3c2edcbe-e32a-35f4-2f5d-b096a010eb78" alt="Star Icon - Harsh Shroff" class="icon-xsmall about-me" />
                         </div>
                       </div>
                     </div>
@@ -135,7 +128,7 @@ require_once('dbConfig.php');
                                 <div class="text-size-regular text-color-white">More about me</div>
                                 <div class="text-size-regular text-color-white">More about me</div>
                               </div>
-                              <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62bbbd0f88aa271847bf5597_arrow-icon-diagonal.svg" loading="lazy" alt="Arrow Icon - Jacob Webflow Template" class="arrow-link" />
+                              <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62bbbd0f88aa271847bf5597_arrow-icon-diagonal.svg" loading="lazy" alt="Arrow Icon - Harsh Shroff" class="arrow-link" />
                             </div>
                           </a>
                         </div>
@@ -228,11 +221,11 @@ require_once('dbConfig.php');
                       <div class="work-top">
                         <div class="text-size-small text-color-white text-style-italic">1/4</div>
                       </div>
-                      <img src="https://assets.website-files.com/62b9c9e28923e75818377786/62bb20bc4979cb3bb3f0da9b_project-01-featured.jpg" loading="lazy" data-w-id="232c4ff1-39f6-2bae-babf-5c284453b1ab" alt="Stickify" sizes="100vw" srcset="https://assets.website-files.com/62b9c9e28923e75818377786/62bb20bc4979cb3bb3f0da9b_project-01-featured-p-500.jpeg 500w, https://assets.website-files.com/62b9c9e28923e75818377786/62bb20bc4979cb3bb3f0da9b_project-01-featured-p-800.jpeg 800w, https://assets.website-files.com/62b9c9e28923e75818377786/62bb20bc4979cb3bb3f0da9b_project-01-featured-p-1080.jpeg 1080w, https://assets.website-files.com/62b9c9e28923e75818377786/62bb20bc4979cb3bb3f0da9b_project-01-featured-p-1600.jpeg 1600w, https://assets.website-files.com/62b9c9e28923e75818377786/62bb20bc4979cb3bb3f0da9b_project-01-featured.jpg 2200w" class="work-image-cover" />
+                      <img src="assets/images/projects/kanoda.png" loading="lazy" data-w-id="232c4ff1-39f6-2bae-babf-5c284453b1ab" alt="Stickify" sizes="100vw" srcset="assets/images/projects/kanoda.png 500w, assets/images/projects/kanoda.png 800w, assets/images/projects/kanoda.png 1080w, assets/images/projects/kanoda.png 1600w, assets/images/projects/kanoda.png 2200w" class="work-image-cover" />
                       <div class="work-content">
                         <div data-w-id="b6a929e6-f1e4-3e04-92cd-af29ebf6f2cc" class="work-title-wrapper">
-                          <h2 class="heading-xlarge text-color-white">Stickify</h2>
-                          <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62bbbd0f88aa271847bf5597_arrow-icon-diagonal.svg" loading="lazy" alt="Arrow Icon - Jacob Webflow Template" class="arrow-work" />
+                          <h2 class="heading-xlarge text-color-white">Solar Analysis</h2>
+                          <img src="assets/images/icons/white-arrow.svg" loading="lazy" alt="Arrow Icon - Harsh Shroff" class="arrow-work" />
                         </div>
                       </div>
                     </a>
@@ -248,11 +241,11 @@ require_once('dbConfig.php');
                       <div class="work-top">
                         <div class="text-size-small text-color-white text-style-italic">2/4</div>
                       </div>
-                      <img src="https://assets.website-files.com/62b9c9e28923e75818377786/62bb286e28008a9998cf7938_project-02-featured.jpg" loading="lazy" data-w-id="d2499c15-d184-fe7f-3a18-b3f9786ac7e3" alt="Kickfy" sizes="100vw" srcset="https://assets.website-files.com/62b9c9e28923e75818377786/62bb286e28008a9998cf7938_project-02-featured-p-500.jpeg 500w, https://assets.website-files.com/62b9c9e28923e75818377786/62bb286e28008a9998cf7938_project-02-featured-p-800.jpeg 800w, https://assets.website-files.com/62b9c9e28923e75818377786/62bb286e28008a9998cf7938_project-02-featured-p-1080.jpeg 1080w, https://assets.website-files.com/62b9c9e28923e75818377786/62bb286e28008a9998cf7938_project-02-featured-p-1600.jpeg 1600w, https://assets.website-files.com/62b9c9e28923e75818377786/62bb286e28008a9998cf7938_project-02-featured.jpg 2200w" class="work-image-cover" />
+                      <img src="assets/images/projects/rpa.png" loading="lazy" data-w-id="d2499c15-d184-fe7f-3a18-b3f9786ac7e3" alt="RPA" sizes="100vw" srcset="assets/images/projects/rpa.png 500w, assets/images/projects/rpa.png 800w, assets/images/projects/rpa.png 1080w, assets/images/projects/rpa.png 1600w, assets/images/projects/rpa.png 2200w" class="work-image-cover" />
                       <div class="work-content">
                         <div data-w-id="d2499c15-d184-fe7f-3a18-b3f9786ac7e6" class="work-title-wrapper">
-                          <h2 class="heading-xlarge text-color-white">Kickfy</h2>
-                          <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62bbbd0f88aa271847bf5597_arrow-icon-diagonal.svg" loading="lazy" alt="Arrow Icon - Jacob Webflow Template" class="arrow-work" />
+                          <h2 class="heading-xlarge text-color-white">Robotic Process Automation</h2>
+                          <img src="assets/images/icons/white-arrow.svg" loading="lazy" alt="Arrow Icon - Harsh Shroff" class="arrow-work" />
                         </div>
                       </div>
                     </a>
@@ -268,11 +261,11 @@ require_once('dbConfig.php');
                       <div class="work-top">
                         <div class="text-size-small text-color-white text-style-italic">3/4</div>
                       </div>
-                      <img src="https://assets.website-files.com/62b9c9e28923e75818377786/62bb332164f11b205435ca94_project-03-featured.jpg" loading="lazy" data-w-id="b0509baf-2b22-6563-17b8-8604feab2ba6" alt="Bikefy" sizes="100vw" srcset="https://assets.website-files.com/62b9c9e28923e75818377786/62bb332164f11b205435ca94_project-03-featured-p-500.jpeg 500w, https://assets.website-files.com/62b9c9e28923e75818377786/62bb332164f11b205435ca94_project-03-featured-p-800.jpeg 800w, https://assets.website-files.com/62b9c9e28923e75818377786/62bb332164f11b205435ca94_project-03-featured-p-1080.jpeg 1080w, https://assets.website-files.com/62b9c9e28923e75818377786/62bb332164f11b205435ca94_project-03-featured-p-1600.jpeg 1600w, https://assets.website-files.com/62b9c9e28923e75818377786/62bb332164f11b205435ca94_project-03-featured.jpg 2200w" class="work-image-cover" />
+                      <img src="assets/images/projects/log-2.jpeg" loading="lazy" data-w-id="b0509baf-2b22-6563-17b8-8604feab2ba6" alt="Activity Monitoring" sizes="100vw" srcset="assets/images/projects/log-2.jpeg 500w, assets/images/projects/log-2.jpeg 800w, assets/images/projects/log-2.jpeg 1080w, assets/images/projects/log-2.jpeg 1600w, assets/images/projects/log.jpeg 2200w" class="work-image-cover" />
                       <div class="work-content">
                         <div data-w-id="b0509baf-2b22-6563-17b8-8604feab2ba9" class="work-title-wrapper">
-                          <h2 class="heading-xlarge text-color-white">Bikefy</h2>
-                          <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62bbbd0f88aa271847bf5597_arrow-icon-diagonal.svg" loading="lazy" alt="Arrow Icon - Jacob Webflow Template" class="arrow-work" />
+                          <h2 class="heading-xlarge text-color-white">Activity Monitoring</h2>
+                          <img src="assets/images/icons/white-arrow.svg" loading="lazy" alt="Arrow Icon - Harsh Shroff" class="arrow-work" />
                         </div>
                       </div>
                     </a>
@@ -288,11 +281,11 @@ require_once('dbConfig.php');
                       <div class="work-top">
                         <div class="text-size-small text-color-white text-style-italic">4/4</div>
                       </div>
-                      <img src="https://assets.website-files.com/62b9c9e28923e75818377786/62bb35289b2dfe66312f333e_project-04-featured.jpg" loading="lazy" data-w-id="2e0b7645-f09e-9222-5307-85000a87fb89" alt="Netfy" sizes="100vw" srcset="https://assets.website-files.com/62b9c9e28923e75818377786/62bb35289b2dfe66312f333e_project-04-featured-p-500.jpeg 500w, https://assets.website-files.com/62b9c9e28923e75818377786/62bb35289b2dfe66312f333e_project-04-featured-p-800.jpeg 800w, https://assets.website-files.com/62b9c9e28923e75818377786/62bb35289b2dfe66312f333e_project-04-featured-p-1080.jpeg 1080w, https://assets.website-files.com/62b9c9e28923e75818377786/62bb35289b2dfe66312f333e_project-04-featured-p-1600.jpeg 1600w, https://assets.website-files.com/62b9c9e28923e75818377786/62bb35289b2dfe66312f333e_project-04-featured.jpg 2200w" class="work-image-cover" />
+                      <img src="https://assets.website-files.com/62b9c9e28923e75818377786/62bb35289b2dfe66312f333e_project-04-featured.jpg" loading="lazy" data-w-id="2e0b7645-f09e-9222-5307-85000a87fb89" alt="Netfy" sizes="100vw" srcset="https://assets.website-files.com/62b9c9e28923e75818377786/62bb35289b2dfe66312f333e_project-04-featured-p-500.jpeg 500w, https://assets.website-files.com/62b9c9e28923e75818377786/62bb35289b2dfe66312f333e_project-04-featured-p-800.jpeg 800w, https://assets.website-files.com/62b9c9e28923e75818377786/62bb35289b2dfe66312f333e_project-04-featured-p-1080.jpeg 1080w, https://assets.website-files.com/62b9c9e28923e75818377786/62bb35289b2dfe66312f333e_project-04-featured-p-1600.jpeg 1600w, assets/images/projects/3.jpeg 2200w" class="work-image-cover" />
                       <div class="work-content">
                         <div data-w-id="2e0b7645-f09e-9222-5307-85000a87fb8c" class="work-title-wrapper">
-                          <h2 class="heading-xlarge text-color-white">Netfy</h2>
-                          <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62bbbd0f88aa271847bf5597_arrow-icon-diagonal.svg" loading="lazy" alt="Arrow Icon - Jacob Webflow Template" class="arrow-work" />
+                          <h2 class="heading-xlarge text-color-white">File Decryption</h2>
+                          <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62bbbd0f88aa271847bf5597_arrow-icon-diagonal.svg" loading="lazy" alt="Arrow Icon - Harsh Shroff" class="arrow-work" />
                         </div>
                       </div>
                     </a>
@@ -309,7 +302,7 @@ require_once('dbConfig.php');
                 <div data-w-id="6742d3e1-ea51-702f-50ac-d041f3752054" class="cta-content-wrapper">
                   <div class="header-image-wrapper">
                     <div class="overflow-image">
-                      <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c30aa9934c9cbd52b841b5_img-about-jacob.png" loading="lazy" srcset="assets/images/me.jpg 500w, https://assets.website-files.com/62b38327b8e2220e110a72b0/62c30aa9934c9cbd52b841b5_img-about-jacob-p-800.png 800w, https://assets.website-files.com/62b38327b8e2220e110a72b0/62c30aa9934c9cbd52b841b5_img-about-jacob.png 1080w" sizes="(max-width: 479px) 17vw, (max-width: 767px) 13vw, 92.79166412353516px" alt="About - Jacob Webflow Template" class="cta-image" />
+                      <img src="assets/images/harsh/3.jpg" loading="lazy" srcset="assets/images/me.jpg 500w, https://assets.website-files.com/62b38327b8e2220e110a72b0/62c30aa9934c9cbd52b841b5_img-about-jacob-p-800.png 800w, https://assets.website-files.com/62b38327b8e2220e110a72b0/62c30aa9934c9cbd52b841b5_img-about-jacob.png 1080w" sizes="(max-width: 479px) 17vw, (max-width: 767px) 13vw, 92.79166412353516px" alt="About - Harsh Shroff" class="cta-image" />
                     </div>
                   </div>
                   <div class="overflow-hidden">
@@ -340,36 +333,36 @@ require_once('dbConfig.php');
                       <div class="logos-card-line">
                         <div class="logos-inside-line">
                           <div class="logo-item">
-                            <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c43a0ada77420d562e7260_Waveless%20Logo.svg" loading="lazy" alt="Logo - Jacob Webflow Template" />
+                            <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c43a0ada77420d562e7260_Waveless%20Logo.svg" loading="lazy" alt="Logo - Harsh Shroff" />
                           </div>
                           <div class="logo-item">
-                            <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c43a2350e53709c56300a5_Luminous%20Logo.svg" loading="lazy" alt="Logo - Jacob Webflow Template" />
+                            <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c43a2350e53709c56300a5_Luminous%20Logo.svg" loading="lazy" alt="Logo - Harsh Shroff" />
                           </div>
                           <div class="logo-item">
-                            <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c43a377f8152350ff01a1e_Sitemark%20Logo.svg" loading="lazy" alt="Logo - Jacob Webflow Template" />
+                            <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c43a377f8152350ff01a1e_Sitemark%20Logo.svg" loading="lazy" alt="Logo - Harsh Shroff" />
                           </div>
                           <div class="logo-item">
-                            <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c43a47f98a4d7d6b4b9309_Automation%20Logo.svg" loading="lazy" alt="Logo - Jacob Webflow Template" />
+                            <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c43a47f98a4d7d6b4b9309_Automation%20Logo.svg" loading="lazy" alt="Logo - Harsh Shroff" />
                           </div>
                           <div class="logo-item">
-                            <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c43abcec8a6fd3bae1270a_Greenish%20Logo.svg" loading="lazy" alt="Logo - Jacob Webflow Template" />
+                            <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c43abcec8a6fd3bae1270a_Greenish%20Logo.svg" loading="lazy" alt="Logo - Harsh Shroff" />
                           </div>
                         </div>
                         <div class="logos-inside-line">
                           <div class="logo-item">
-                            <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c43a0ada77420d562e7260_Waveless%20Logo.svg" loading="lazy" alt="Logo - Jacob Webflow Template" />
+                            <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c43a0ada77420d562e7260_Waveless%20Logo.svg" loading="lazy" alt="Logo - Harsh Shroff" />
                           </div>
                           <div class="logo-item">
-                            <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c43a2350e53709c56300a5_Luminous%20Logo.svg" loading="lazy" alt="Logo - Jacob Webflow Template" />
+                            <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c43a2350e53709c56300a5_Luminous%20Logo.svg" loading="lazy" alt="Logo - Harsh Shroff" />
                           </div>
                           <div class="logo-item">
-                            <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c43a377f8152350ff01a1e_Sitemark%20Logo.svg" loading="lazy" alt="Logo - Jacob Webflow Template" />
+                            <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c43a377f8152350ff01a1e_Sitemark%20Logo.svg" loading="lazy" alt="Logo - Harsh Shroff" />
                           </div>
                           <div class="logo-item">
-                            <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c43a47f98a4d7d6b4b9309_Automation%20Logo.svg" loading="lazy" alt="Logo - Jacob Webflow Template" />
+                            <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c43a47f98a4d7d6b4b9309_Automation%20Logo.svg" loading="lazy" alt="Logo - Harsh Shroff" />
                           </div>
                           <div class="logo-item">
-                            <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c43abcec8a6fd3bae1270a_Greenish%20Logo.svg" loading="lazy" alt="Logo - Jacob Webflow Template" />
+                            <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c43abcec8a6fd3bae1270a_Greenish%20Logo.svg" loading="lazy" alt="Logo - Harsh Shroff" />
                           </div>
                         </div>
                       </div>

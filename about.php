@@ -5,7 +5,7 @@ require_once('dbConfig.php');
 <html data-wf-domain="jacob-template.webflow.io" data-wf-page="62bcfa88bdc3205358ca6daa" data-wf-site="62b38327b8e2220e110a72b0">
   <head>
     <meta charset="utf-8" />
-    <title>About - Jacob - Webflow Ecommerce Website Template</title>
+    <title>About - Harsh Shroff</title>
     <meta content="Impress your future clients or employers with the Jacob template, created for designers looking to have an awesome portfolio design and stand out from the rest — If you&#x27;re looking to boost your personal brand, the Jacob template is the one for you." name="description" />
     <meta content="About - Jacob - Webflow Ecommerce Website Template" property="og:title" />
     <meta content="Impress your future clients or employers with the Jacob template, created for designers looking to have an awesome portfolio design and stand out from the rest — If you&#x27;re looking to boost your personal brand, the Jacob template is the one for you." property="og:description" />
@@ -120,10 +120,19 @@ require_once('dbConfig.php');
                       </div>
                     </div>
                     <div id="w-node-_38b1ab8f-a044-52ec-0041-d740442c2b74-58ca6daa" class="inner-container">
-                      <p class="text-size-regular text-color-light-grey">As a computer science specialist, I have a deep understanding of the latest technologies and techniques used in the field. I have applied this knowledge to the development of innovative products and services at técrave, which have helped to differentiate the company from its competitors.</p>
+                      <p class="text-size-regular text-color-light-grey">As a co-founder of técrave, I have a passion for entrepreneurship and a drive to succeed. I have played a key role in developing and implementing the company's strategies, and I am committed to growing the business and achieving our goals.</p>
                     </div>
                     <div id="w-node-_16664637-24b2-47fa-1a54-77a778b64bb6-58ca6daa" class="inner-container">
-                      <p class="text-size-regular text-color-light-grey">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet elementum.</p>
+                      <p class="text-size-regular text-color-light-grey">In my role as a co-founder, I have been responsible for many different aspects of the business, including managing finances and operations, recruiting and hiring employees, and building relationships with key stakeholders. I have also worked closely with my co-founder to develop and implement plans to expand the business and enter new markets</p>
+                    </div>
+                    <div id="w-node-_16664637-24b2-47fa-1a54-77a778b64bb6-58ca6daa" class="inner-container">
+                      <p class="text-size-regular text-color-light-grey">I have a deep understanding of the industry and our target market, and I am always looking for ways to innovate and improve our products and services. I am also a strong communicator and leader, and I am dedicated to building a positive and collaborative culture within the company.</p>
+                    </div>
+                    <div id="w-node-_16664637-24b2-47fa-1a54-77a778b64bb6-58ca6daa" class="inner-container">
+                      <p class="text-size-regular text-color-light-grey">I am passionate about entrepreneurship and am always looking for new ways to innovate and improve. I am also a strong leader and communicator, and I am dedicated to building a positive and collaborative culture within the company.</p>
+                    </div>
+                    <div id="w-node-_16664637-24b2-47fa-1a54-77a778b64bb6-58ca6daa" class="inner-container">
+                      <p class="text-size-regular text-color-light-grey">Overall, my experience as a co-founder and a computer science specialist has been an invaluable asset to técrave, and I am proud of the contributions I have made to the company's success. I look forward to continuing to work hard and make a positive impact on the business.</p>
                     </div>
                   </div>
                 </div>
@@ -267,37 +276,37 @@ require_once('dbConfig.php');
                 <div class="w-layout-grid experience-component-grid">
                   <div class="inner-content">
                     <div data-w-id="b76c1a78-88f5-1ed2-4ac7-8cd3464efa91" style="opacity:0" class="experience-content _1">
-                      <h3 class="heading-medium">ui/ux designer</h3>
-                      <div class="text-size-small text-color-grey">Adobe 2006 - 2012</div>
+                      <h3 class="heading-medium">Research Intern</h3>
+                      <div class="text-size-small text-color-grey">Karma Foundation | September 2019 - November 2019 </div>
                       <div class="margin-top margin-small">
                         <div class="divider-line"></div>
                       </div>
                       <div class="margin-top margin-small">
-                        <p class="text-size-regular text-color-grey">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.</p>
+                        <p class="text-size-regular text-color-grey">The Karma Foundation is a non-profit organisation that works to improve people's lives across the entire socio-economic spectrum. I was excited to have the opportunity to contribute to their efforts.</p>
                       </div>
                     </div>
                   </div>
                   <div class="inner-content">
                     <div data-w-id="94adc048-0e35-460a-bd65-15fd839b560b" style="opacity:0" class="experience-content _2">
-                      <h3 class="heading-medium">senior interface developer</h3>
-                      <div class="text-size-small text-color-grey">Google 2013 - 2017</div>
+                      <h3 class="heading-medium">IRU (Student Volunteer)</h3>
+                      <div class="text-size-small text-color-grey">Gujarat Cyber Crime | April 2020 – Present</div>
                       <div class="margin-top margin-small">
                         <div class="divider-line"></div>
                       </div>
                       <div class="margin-top margin-small">
-                        <p class="text-size-regular text-color-grey">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.</p>
+                        <p class="text-size-regular text-color-grey">The Objective was to identify the research problems/needs of law enforcement agencies and take up R&D activities in developing new technologies and forensic tools in collaboration with academia/research institutes within India and abroad.</p>
                       </div>
                     </div>
                   </div>
                   <div class="inner-content">
                     <div data-w-id="5350f768-cd80-5b98-2ec5-2d99a480b484" style="opacity:0" class="experience-content _3">
-                      <h3 class="heading-medium">full-stack developer</h3>
-                      <div class="text-size-small text-color-grey">Webflow 2018 - Present</div>
+                      <h3 class="heading-medium">CEO & Co-founder</h3>
+                      <div class="text-size-small text-color-grey">técrave™ | August 2020 - Present</div>
                       <div class="margin-top margin-small">
                         <div class="divider-line"></div>
                       </div>
                       <div class="margin-top margin-small">
-                        <p class="text-size-regular text-color-grey">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.</p>
+                        <p class="text-size-regular text-color-grey">I founded técrave with my friend in my sophomore year of college. We saw a gap in the market for a tech company that focused specifically on improving computer technology and enhancing cyber security. We decided to take the leap and start our own business.</p>
                       </div>
                     </div>
                   </div>

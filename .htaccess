@@ -1,0 +1,27 @@
+ErrorDocument 400 https://harshshroff.com/400.html
+ErrorDocument 401 https://harshshroff.com/401.html
+ErrorDocument 403 https://harshshroff.com/403.html
+ErrorDocument 404 https://harshshroff.com/404.html
+ErrorDocument 500 https://harshshroff.com/500.html
+
+RewriteEngine on
+
+Deny from 2405:201:2000:7043:80f9:37c3:6c17:58df
+
+RewriteCond %{THE_REQUEST} /([^.]+)\.html [NC]
+RewriteRule ^ /%1 [NC,L,R]
+
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^ %{REQUEST_URI}.html [NC,L]
+
+Options -Indexes
+
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [NC,L]
+#RewriteRule ([^]*)/(Aadhar|PAN)/([a-z0-9]).*$ https://harshshroff.com/affiliate/auth.php [NC,L]
+#RewriteRule /https://harshshroff.com/affiliate/images/(Aadhar|PAN)/[a-zA-Z0-9]*.(jpg|jpeg|png|pdf)$ index.php [R=301,L]
+#RedirectMatch 301 ^https:\/\/tecrave\.in\/affiliate\/images\/(Aadhar|PAN)\/([a-z0-9]*)\.(jpeg|jpg|png|pdf)$ https://harshshroff.com/affiliate/auth.php?next=$1
+
+ServerSignature Off

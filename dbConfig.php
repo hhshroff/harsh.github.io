@@ -33,7 +33,7 @@ function getHeader(){
         <div class="nav-menu-content">
           <div id="w-node-dc4c56e6-3035-d75f-ac11-3e0a86b79ad5-86b79ac5" class="item-menu-wrapper">
             <div class="nav-overflow-hidden nav-link-margin">
-              <a data-w-id="dc4c56e6-3035-d75f-ac11-3e0a86b79ad7" href="index.html" aria-current="page" class="nav-link _1 w-inline-block w--current">
+              <a data-w-id="dc4c56e6-3035-d75f-ac11-3e0a86b79ad7" href="index" aria-current="page" class="nav-link _1 w-inline-block w--current">
                 <div class="nav-wrapper">
                   <div class="overflow-hidden">
                     <div class="nav-text">Home</div>
@@ -44,7 +44,7 @@ function getHeader(){
               </a>
             </div>
             <div class="nav-overflow-hidden nav-link-margin">
-              <a data-w-id="dc4c56e6-3035-d75f-ac11-3e0a86b79ae1" href="about.html" class="nav-link _2 w-inline-block">
+              <a data-w-id="dc4c56e6-3035-d75f-ac11-3e0a86b79ae1" href="about" class="nav-link _2 w-inline-block">
                 <div class="nav-wrapper">
                   <div class="overflow-hidden">
                     <div class="nav-text">About</div>
@@ -55,7 +55,7 @@ function getHeader(){
               </a>
             </div>
             <div class="nav-overflow-hidden nav-link-margin">
-              <a data-w-id="dc4c56e6-3035-d75f-ac11-3e0a86b79aeb" href="works.html" class="nav-link _3 w-inline-block">
+              <a data-w-id="dc4c56e6-3035-d75f-ac11-3e0a86b79aeb" href="works" class="nav-link _3 w-inline-block">
                 <div class="nav-wrapper">
                   <div class="overflow-hidden">
                     <div class="nav-text">Works</div>
@@ -68,18 +68,18 @@ function getHeader(){
           </div>
           <div id="w-node-dc4c56e6-3035-d75f-ac11-3e0a86b79af4-86b79ac5" class="item-menu-wrapper">
             <div class="nav-overflow-hidden nav-link-margin">
-              <a data-w-id="dc4c56e6-3035-d75f-ac11-3e0a86b79af6" href="hire-me.html" class="nav-link _4 w-inline-block">
+              <a data-w-id="dc4c56e6-3035-d75f-ac11-3e0a86b79af6" href="awards" class="nav-link _4 w-inline-block">
                 <div class="nav-wrapper">
                   <div class="overflow-hidden">
-                    <div class="nav-text">Hire Me</div>
-                    <div class="nav-text">Hire Me</div>
+                    <div class="nav-text">Awards</div>
+                    <div class="nav-text">Awards</div>
                   </div>
                   <div class="nav-number">04</div>
                 </div>
               </a>
             </div>
             <div class="nav-overflow-hidden nav-link-margin">
-              <a data-w-id="dc4c56e6-3035-d75f-ac11-3e0a86b79b00" href="blog.html" class="nav-link _5 w-inline-block">
+              <a data-w-id="dc4c56e6-3035-d75f-ac11-3e0a86b79b00" href="blog" class="nav-link _5 w-inline-block">
                 <div class="nav-wrapper">
                   <div class="overflow-hidden">
                     <div class="nav-text">Blog</div>
@@ -90,7 +90,7 @@ function getHeader(){
               </a>
             </div>
             <div class="nav-overflow-hidden nav-link-margin">
-              <a data-w-id="dc4c56e6-3035-d75f-ac11-3e0a86b79b0a" href="contact.html" class="nav-link _6 w-inline-block">
+              <a data-w-id="dc4c56e6-3035-d75f-ac11-3e0a86b79b0a" href="contact" class="nav-link _6 w-inline-block">
                 <div class="nav-wrapper">
                   <div class="overflow-hidden">
                     <div class="nav-text">Contact</div>
@@ -185,15 +185,15 @@ function getFooter(){
                         </a>
                       </li>
                       <li class="footer-nav-item">
-                        <a href="hire-me.html" data-w-id="4e95a93b-6727-6d76-bc98-c51d026256cd" class="footer-nav-link w-inline-block">
+                        <a href="achievements" data-w-id="4e95a93b-6727-6d76-bc98-c51d026256cd" class="footer-nav-link w-inline-block">
                           <div class="button-text-wrapper">
-                            <div class="text-nav-footer">Hire Me</div>
-                            <div class="text-nav-footer">Hire Me</div>
+                            <div class="text-nav-footer">Achievements</div>
+                            <div class="text-nav-footer">Achievements</div>
                           </div>
                         </a>
                       </li>
                       <li class="footer-nav-item">
-                        <a href="blog.html" data-w-id="4e95a93b-6727-6d76-bc98-c51d026256d4" class="footer-nav-link w-inline-block">
+                        <a href="blog" data-w-id="4e95a93b-6727-6d76-bc98-c51d026256d4" class="footer-nav-link w-inline-block">
                           <div class="button-text-wrapper">
                             <div class="text-nav-footer">Blog</div>
                             <div class="text-nav-footer">Blog</div>
@@ -201,7 +201,7 @@ function getFooter(){
                         </a>
                       </li>
                       <li class="footer-nav-item">
-                        <a href="contact.html" data-w-id="4e95a93b-6727-6d76-bc98-c51d026256db" class="footer-nav-link w-inline-block">
+                        <a href="contact" data-w-id="4e95a93b-6727-6d76-bc98-c51d026256db" class="footer-nav-link w-inline-block">
                           <div class="button-text-wrapper">
                             <div class="text-nav-footer">Contact</div>
                             <div class="text-nav-footer">Contact</div>
