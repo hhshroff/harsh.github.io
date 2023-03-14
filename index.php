@@ -42,7 +42,7 @@ require_once('dbConfig.php');
                 <div class="header-content-wrapper">
                   <div class="overflow-hidden">
                     <div class="horizontal-flex margin-right margin-small">
-                      <h1 class="heading-huge text-color-dim-grey">i&#x27;m Harsh</h1>
+                      <h1 class="heading-huge text-color-dim-grey">i&#x27;m Harsh H</h1>
                       <div style="opacity:0" class="copyright text-color-dim-grey">©</div>
                     </div>
                   </div>
