@@ -79,7 +79,7 @@ function getHeader(){
               </a>
             </div>
             <div class="nav-overflow-hidden nav-link-margin">
-              <a data-w-id="dc4c56e6-3035-d75f-ac11-3e0a86b79b00" href="blog" class="nav-link _5 w-inline-block">
+              <a data-w-id="dc4c56e6-3035-d75f-ac11-3e0a86b79b00" href="https://blog.tecrave.in" class="nav-link _5 w-inline-block">
                 <div class="nav-wrapper">
                   <div class="overflow-hidden">
                     <div class="nav-text">Blog</div>

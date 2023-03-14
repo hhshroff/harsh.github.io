@@ -5,19 +5,21 @@ require_once('dbConfig.php');
 <html data-wf-domain="jacob-template.webflow.io" data-wf-page="62bcfa88bdc3205358ca6daa" data-wf-site="62b38327b8e2220e110a72b0">
   <head>
     <meta charset="utf-8" />
-    <title>About - Harsh Shroff</title>
-    <meta content="Impress your future clients or employers with the Jacob template, created for designers looking to have an awesome portfolio design and stand out from the rest — If you&#x27;re looking to boost your personal brand, the Jacob template is the one for you." name="description" />
-    <meta content="About - Jacob - Webflow Ecommerce Website Template" property="og:title" />
-    <meta content="Impress your future clients or employers with the Jacob template, created for designers looking to have an awesome portfolio design and stand out from the rest — If you&#x27;re looking to boost your personal brand, the Jacob template is the one for you." property="og:description" />
-    <meta content="https://assets.website-files.com/62b38327b8e2220e110a72b0/62d54be5aa648f7be723596f_jacob-featured-image.jpg" property="og:image" />
-    <meta content="About - Jacob - Webflow Ecommerce Website Template" property="twitter:title" />
-    <meta content="Impress your future clients or employers with the Jacob template, created for designers looking to have an awesome portfolio design and stand out from the rest — If you&#x27;re looking to boost your personal brand, the Jacob template is the one for you." property="twitter:description" />
-    <meta content="https://assets.website-files.com/62b38327b8e2220e110a72b0/62d54be5aa648f7be723596f_jacob-featured-image.jpg" property="twitter:image" />
+    <title>About Me - Harsh Shroff</title>
+    <meta content="Discover the work and services of Harsh Shroff, a technology and cybersecurity expert. Browse his portfolio, learn about his skills and experience, and contact him for consulting and services." name="description" />
+    <meta content="Harsh Shroff - Tech and Cybersecurity Expert" property="og:title"/>
+    <meta content="Harsh Shroff, technology, cybersecurity, expert, portfolio, services, consulting, security assessments, penetration testing, incident response, threat hunting" name="keywords" />
+    <link rel="canonical" href="https://harshshroff.com/">
+    <meta content="Discover the work and services of Harsh Shroff, a technology and cybersecurity expert. Browse his portfolio, learn about his skills and experience, and contact him for consulting and services." property="og:description" />
+    <meta content="../assets/images/harsh/2.jpg" property="og:image" />
+    <meta content="Showcasing My Professional Skills and Experience - Harsh Shroff" property="twitter:title" />
+    <meta content="Discover the work and services of Harsh Shroff, a technology and cybersecurity expert. Browse his portfolio, learn about his skills and experience, and contact him for consulting and services." property="twitter:description" />
+    <meta content="../assets/images/harsh/2.jpg" property="twitter:image" />
     <meta property="og:type" content="website" />
     <meta content="summary_large_image" name="twitter:card" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
-    <meta content="Webflow" name="generator" />
-    <link href="https://assets.website-files.com/62b38327b8e2220e110a72b0/css/jacob-template.webflow.09af418d4.min.css" rel="stylesheet" type="text/css" />
+    <meta content="Harsh Shroff" name="generator" />   
+    <link href="assets/css/main.css" rel="stylesheet" type="text/css" />
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
     <script type="text/javascript">
       WebFont.load({
@@ -29,27 +31,8 @@ require_once('dbConfig.php');
     <!--[if lt IE 9]>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script>
 		<![endif]-->
-    <script type="text/javascript">
-      ! function(o, c) {
-        var n = c.documentElement,
-          t = " w-mod-";
-        n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
-      }(window, document);
-    </script>
-    <link href="https://assets.website-files.com/62b38327b8e2220e110a72b0/62d7eea49028bcad821353d4_favicon-jacob.svg" rel="shortcut icon" type="image/x-icon" />
-    <link href="https://assets.website-files.com/62b38327b8e2220e110a72b0/62d7eef1d60dea31c930a60e_webclip-jacob.svg" rel="apple-touch-icon" />
-    <script type="text/javascript">
-      window.__WEBFLOW_CURRENCY_SETTINGS = {
-        "currencyCode": "USD",
-        "$init": true,
-        "symbol": "$",
-        "decimal": ".",
-        "fractionDigits": 2,
-        "group": ",",
-        "template": "{{wf {\"path\":\"symbol\",\"type\":\"PlainText\"} }} {{wf {\"path\":\"amount\",\"type\":\"CommercePrice\"} }} {{wf {\"path\":\"currencyCode\",\"type\":\"PlainText\"} }}",
-        "hideDecimalForWholeNumbers": false
-      };
-    </script>
+    <link href="assets/images/favicon.svg" rel="shortcut icon" type="image/x-icon" />
+    <link href="assets/images/favicon.svg" rel="apple-touch-icon" />
   </head>
   <body>
     <div class="page-wrapper">
@@ -65,7 +48,7 @@ require_once('dbConfig.php');
                   </div>
                   <div class="header-image-wrapper">
                     <div class="overflow-image">
-                      <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c30aa9934c9cbd52b841b5_img-about-jacob.png" loading="lazy" style="-webkit-transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg);-moz-transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg);-ms-transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg);transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg)" srcset="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c30aa9934c9cbd52b841b5_img-about-jacob-p-500.png 500w, https://assets.website-files.com/62b38327b8e2220e110a72b0/62c30aa9934c9cbd52b841b5_img-about-jacob-p-800.png 800w, https://assets.website-files.com/62b38327b8e2220e110a72b0/62c30aa9934c9cbd52b841b5_img-about-jacob.png 1080w" sizes="(max-width: 479px) 17vw, (max-width: 767px) 13vw, 92.79166412353516px" alt="About - Jacob Webflow Template" class="fit-cover-image circle-image" />
+                      <img src="assets/images/harsh/4.jpg" loading="lazy" style="-webkit-transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg);-moz-transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg);-ms-transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg);transform:translate3d(0, -110%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 9deg)" srcset="assets/images/harsh/4.jpg 500w, assets/images/harsh/4.jpg 1080w" sizes="(max-width: 479px) 17vw, (max-width: 767px) 13vw, 92.79166412353516px" alt="About - Harsh Shroff" class="fit-cover-image circle-image" />
                     </div>
                   </div>
                   <div class="overflow-hidden">
@@ -320,12 +303,12 @@ require_once('dbConfig.php');
             <div class="container-large">
               <div class="padding-vertical padding-large">
                 <div class="social-media-content-wrapper">
-                  <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c30aa9934c9cbd52b841b5_img-about-jacob.png" loading="lazy" srcset="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c30aa9934c9cbd52b841b5_img-about-jacob-p-500.png 500w, https://assets.website-files.com/62b38327b8e2220e110a72b0/62c30aa9934c9cbd52b841b5_img-about-jacob-p-800.png 800w, https://assets.website-files.com/62b38327b8e2220e110a72b0/62c30aa9934c9cbd52b841b5_img-about-jacob.png 1080w" sizes="(max-width: 767px) 92vw, (max-width: 991px) 59vw, (max-width: 1439px) 51vw, 704px" alt="About - Jacob Webflow Template" class="image-about" />
+                  <img src="assets/images/harsh/2.jpg" loading="lazy" srcset="assets/images/harsh/2.jpg 500w, assets/images/harsh/2.jpg 800w, assets/images/harsh/2.jpg 1080w" sizes="(max-width: 767px) 92vw, (max-width: 991px) 59vw, (max-width: 1439px) 51vw, 704px" alt="About - Jacob Webflow Template" class="image-about" />
                   <div class="social-media-content">
                     <div class="card-social-media">
                       <h2 class="heading-small text-color-white">follow me</h2>
                       <div class="margin-top margin-small">
-                        <p class="text-size-small text-color-light-grey">I&#x27;m Jacob James, a designer who works with startups looking to push creative boundaries.</p>
+                        <p class="text-size-small text-color-light-grey">I&#x27;m Harsh Shroff, get a behind-the-scenes look at my life and follow me on various social media platforms.</p>
                       </div>
                       <div class="margin-top margin-medium">
                         <div class="divider-line is-dark-grey"></div>
@@ -378,7 +361,7 @@ require_once('dbConfig.php');
                 <div data-w-id="6742d3e1-ea51-702f-50ac-d041f3752054" class="cta-content-wrapper">
                   <div class="header-image-wrapper">
                     <div class="overflow-image">
-                      <img src="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c30aa9934c9cbd52b841b5_img-about-jacob.png" loading="lazy" srcset="https://assets.website-files.com/62b38327b8e2220e110a72b0/62c30aa9934c9cbd52b841b5_img-about-jacob-p-500.png 500w, https://assets.website-files.com/62b38327b8e2220e110a72b0/62c30aa9934c9cbd52b841b5_img-about-jacob-p-800.png 800w, https://assets.website-files.com/62b38327b8e2220e110a72b0/62c30aa9934c9cbd52b841b5_img-about-jacob.png 1080w" sizes="(max-width: 479px) 17vw, (max-width: 767px) 13vw, 92.79166412353516px" alt="About - Jacob Webflow Template" class="cta-image" />
+                      <img src="assets/images/harsh/6.jpeg" loading="lazy" srcset="assets/images/harsh/6.jpeg 500w, assets/images/harsh/6.jpeg 800w, assets/images/harsh/6.jpeg 1080w" sizes="(max-width: 479px) 17vw, (max-width: 767px) 13vw, 92.79166412353516px" alt="About - Harsh Shroff" class="cta-image" />
                     </div>
                   </div>
                   <div class="overflow-hidden">

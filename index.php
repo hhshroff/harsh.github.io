@@ -6,17 +6,19 @@ require_once('dbConfig.php');
   <head>
     <meta charset="utf-8" />
     <title>Home - Harsh Shroff</title>
-    <meta content="Impress your future clients or employers with the Jacob template, created for designers looking to have an awesome portfolio design and stand out from the rest — If you&#x27;re looking to boost your personal brand, the Jacob template is the one for you." name="description" />
-    <meta content="Jacob - Webflow Ecommerce Website Template" property="og:title" />
-    <meta content="Impress your future clients or employers with the Jacob template, created for designers looking to have an awesome portfolio design and stand out from the rest — If you&#x27;re looking to boost your personal brand, the Jacob template is the one for you." property="og:description" />
-    <meta content="https://assets.website-files.com/62b38327b8e2220e110a72b0/62d54be5aa648f7be723596f_jacob-featured-image.jpg" property="og:image" />
-    <meta content="Jacob - Webflow Ecommerce Website Template" property="twitter:title" />
-    <meta content="Impress your future clients or employers with the Jacob template, created for designers looking to have an awesome portfolio design and stand out from the rest — If you&#x27;re looking to boost your personal brand, the Jacob template is the one for you." property="twitter:description" />
-    <meta content="https://assets.website-files.com/62b38327b8e2220e110a72b0/62d54be5aa648f7be723596f_jacob-featured-image.jpg" property="twitter:image" />
+    <meta content="Discover the work and services of Harsh Shroff, a technology and cybersecurity expert. Browse his portfolio, learn about his skills and experience, and contact him for consulting and services." name="description" />
+    <meta content="Harsh Shroff - Tech and Cybersecurity Expert" property="og:title"/>
+    <meta content="Harsh Shroff, technology, cybersecurity, expert, portfolio, services, consulting, security assessments, penetration testing, incident response, threat hunting" name="keywords" />
+    <link rel="canonical" href="https://harshshroff.com/">
+    <meta content="Discover the work and services of Harsh Shroff, a technology and cybersecurity expert. Browse his portfolio, learn about his skills and experience, and contact him for consulting and services." property="og:description" />
+    <meta content="../assets/images/harsh/2.jpg" property="og:image" />
+    <meta content="Showcasing My Professional Skills and Experience - Harsh Shroff" property="twitter:title" />
+    <meta content="Discover the work and services of Harsh Shroff, a technology and cybersecurity expert. Browse his portfolio, learn about his skills and experience, and contact him for consulting and services." property="twitter:description" />
+    <meta content="../assets/images/harsh/2.jpg" property="twitter:image" />
     <meta property="og:type" content="website" />
     <meta content="summary_large_image" name="twitter:card" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
-    <meta content="Webflow" name="generator" />
+    <meta content="Harsh Shroff" name="generator" />   
     <link href="assets/css/main.css" rel="stylesheet" type="text/css" />
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
     <script type="text/javascript">
@@ -122,7 +124,7 @@ require_once('dbConfig.php');
                           <p class="text-size-large text-color-light-grey">As a cyber security specialist with over 5 years of experience in the field, I have a deep understanding of the latest technologies and techniques used to protect against cyber threats. My portfolio showcases a range of projects and certifications that demonstrate my expertise in areas such as network security, penetration testing, and incident response.</p>
                         </div>
                         <div id="w-node-_577af78c-d9ca-df79-c852-3ab98bd39eb3-0a0a72b5" class="inner-content">
-                          <a id="w-node-_577af78c-d9ca-df79-c852-3ab98bd39eb4-0a0a72b5" data-w-id="577af78c-d9ca-df79-c852-3ab98bd39eb4" href="about.html" class="link-wrapper about-me w-inline-block">
+                          <a id="w-node-_577af78c-d9ca-df79-c852-3ab98bd39eb4-0a0a72b5" data-w-id="577af78c-d9ca-df79-c852-3ab98bd39eb4" href="about" class="link-wrapper about-me w-inline-block">
                             <div class="horizontal-flex about-me">
                               <div class="button-text-wrapper">
                                 <div class="text-size-regular text-color-white">More about me</div>
@@ -217,7 +219,7 @@ require_once('dbConfig.php');
               <div class="w-dyn-list">
                 <div role="list" class="w-dyn-items">
                   <div role="listitem" class="w-dyn-item">
-                    <a href="works/stickify.html" class="full-work-link w-inline-block">
+                    <a href="works/solar" class="full-work-link w-inline-block">
                       <div class="work-top">
                         <div class="text-size-small text-color-white text-style-italic">1/4</div>
                       </div>
@@ -237,7 +239,7 @@ require_once('dbConfig.php');
               <div class="w-dyn-list">
                 <div role="list" class="w-dyn-items">
                   <div role="listitem" class="w-dyn-item">
-                    <a href="works/kickfy.html" class="full-work-link w-inline-block">
+                    <a href="#" class="full-work-link w-inline-block">
                       <div class="work-top">
                         <div class="text-size-small text-color-white text-style-italic">2/4</div>
                       </div>
@@ -257,7 +259,7 @@ require_once('dbConfig.php');
               <div class="w-dyn-list">
                 <div role="list" class="w-dyn-items">
                   <div role="listitem" class="w-dyn-item">
-                    <a href="works/bikefy.html" class="full-work-link absolute w-inline-block">
+                    <a href="#" class="full-work-link absolute w-inline-block">
                       <div class="work-top">
                         <div class="text-size-small text-color-white text-style-italic">3/4</div>
                       </div>
@@ -277,7 +279,7 @@ require_once('dbConfig.php');
               <div class="w-dyn-list">
                 <div role="list" class="w-dyn-items">
                   <div role="listitem" class="w-dyn-item">
-                    <a href="works/netfy.html" class="full-work-link absolute w-inline-block">
+                    <a href="#" class="full-work-link absolute w-inline-block">
                       <div class="work-top">
                         <div class="text-size-small text-color-white text-style-italic">4/4</div>
                       </div>
