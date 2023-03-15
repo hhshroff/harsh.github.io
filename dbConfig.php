@@ -58,8 +58,8 @@ function getHeader(){
               <a data-w-id="dc4c56e6-3035-d75f-ac11-3e0a86b79aeb" href="works" class="nav-link _3 w-inline-block">
                 <div class="nav-wrapper">
                   <div class="overflow-hidden">
-                    <div class="nav-text">Works</div>
-                    <div class="nav-text">Works</div>
+                    <div class="nav-text">Work</div>
+                    <div class="nav-text">Work</div>
                   </div>
                   <div class="nav-number">03</div>
                 </div>
@@ -71,8 +71,8 @@ function getHeader(){
               <a data-w-id="dc4c56e6-3035-d75f-ac11-3e0a86b79af6" href="awards" class="nav-link _4 w-inline-block">
                 <div class="nav-wrapper">
                   <div class="overflow-hidden">
-                    <div class="nav-text">Awards</div>
-                    <div class="nav-text">Awards</div>
+                    <div class="nav-text">Community</div>
+                    <div class="nav-text">Community</div>
                   </div>
                   <div class="nav-number">04</div>
                 </div>
@@ -82,8 +82,8 @@ function getHeader(){
               <a data-w-id="dc4c56e6-3035-d75f-ac11-3e0a86b79b00" href="https://blog.tecrave.in" class="nav-link _5 w-inline-block">
                 <div class="nav-wrapper">
                   <div class="overflow-hidden">
-                    <div class="nav-text">Blog</div>
-                    <div class="nav-text">Blog</div>
+                    <div class="nav-text">Résumé</div>
+                    <div class="nav-text">Résumé</div>
                   </div>
                   <div class="nav-number">05</div>
                 </div>

@@ -5,18 +5,20 @@ require_once('dbConfig.php');
 <html data-wf-domain="jacob-template.webflow.io" data-wf-page="62bca6b78e03e67390475ead" data-wf-site="62b38327b8e2220e110a72b0">
   <head>
     <meta charset="utf-8" />
-    <title>Works - Jacob - Webflow Ecommerce Website Template</title>
-    <meta content="Impress your future clients or employers with the Jacob template, created for designers looking to have an awesome portfolio design and stand out from the rest — If you&#x27;re looking to boost your personal brand, the Jacob template is the one for you." name="description" />
-    <meta content="Works - Jacob - Webflow Ecommerce Website Template" property="og:title" />
-    <meta content="Impress your future clients or employers with the Jacob template, created for designers looking to have an awesome portfolio design and stand out from the rest — If you&#x27;re looking to boost your personal brand, the Jacob template is the one for you." property="og:description" />
-    <meta content="https://assets.website-files.com/62b38327b8e2220e110a72b0/62d54be5aa648f7be723596f_jacob-featured-image.jpg" property="og:image" />
-    <meta content="Works - Jacob - Webflow Ecommerce Website Template" property="twitter:title" />
-    <meta content="Impress your future clients or employers with the Jacob template, created for designers looking to have an awesome portfolio design and stand out from the rest — If you&#x27;re looking to boost your personal brand, the Jacob template is the one for you." property="twitter:description" />
-    <meta content="https://assets.website-files.com/62b38327b8e2220e110a72b0/62d54be5aa648f7be723596f_jacob-featured-image.jpg" property="twitter:image" />
+    <title>Home - Harsh Shroff</title>
+    <meta content="Discover the work and services of Harsh Shroff, a technology and cybersecurity expert. Browse his portfolio, learn about his skills and experience, and contact him for consulting and services." name="description" />
+    <meta content="Harsh Shroff - Tech and Cybersecurity Expert" property="og:title"/>
+    <meta content="Harsh Shroff, technology, cybersecurity, expert, portfolio, services, consulting, security assessments, penetration testing, incident response, threat hunting" name="keywords" />
+    <link rel="canonical" href="https://harshshroff.com/">
+    <meta content="Discover the work and services of Harsh Shroff, a technology and cybersecurity expert. Browse his portfolio, learn about his skills and experience, and contact him for consulting and services." property="og:description" />
+    <meta content="../assets/images/harsh/2.jpg" property="og:image" />
+    <meta content="Showcasing My Professional Skills and Experience - Harsh Shroff" property="twitter:title" />
+    <meta content="Discover the work and services of Harsh Shroff, a technology and cybersecurity expert. Browse his portfolio, learn about his skills and experience, and contact him for consulting and services." property="twitter:description" />
+    <meta content="../assets/images/harsh/2.jpg" property="twitter:image" />
     <meta property="og:type" content="website" />
     <meta content="summary_large_image" name="twitter:card" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
-    <meta content="Webflow" name="generator" />
+    <meta content="Harsh Shroff" name="generator" />   
     <link href="https://assets.website-files.com/62b38327b8e2220e110a72b0/css/jacob-template.webflow.09af418d4.min.css" rel="stylesheet" type="text/css" />
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
     <script type="text/javascript">
@@ -30,8 +32,8 @@ require_once('dbConfig.php');
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script>
 		<![endif]-->
 
-    <link href="https://assets.website-files.com/62b38327b8e2220e110a72b0/62d7eea49028bcad821353d4_favicon-jacob.svg" rel="shortcut icon" type="image/x-icon" />
-    <link href="https://assets.website-files.com/62b38327b8e2220e110a72b0/62d7eef1d60dea31c930a60e_webclip-jacob.svg" rel="apple-touch-icon" />
+    <link href="assets/images/favicon.svg" rel="shortcut icon" type="image/x-icon" />
+    <link href="assets/images/favicon.svg" rel="apple-touch-icon" />
   </head>
   <body>
     <div class="preloader">
