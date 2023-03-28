@@ -306,7 +306,7 @@ require_once('dbConfig.php');
             <div class="container-large">
               <div class="padding-vertical padding-large">
                 <div class="social-media-content-wrapper">
-                  <img src="assets/images/harsh/2.jpg" loading="lazy" srcset="assets/images/harsh/2.jpg 500w, assets/images/harsh/2.jpg 800w, assets/images/harsh/2.jpg 1080w" sizes="(max-width: 767px) 92vw, (max-width: 991px) 59vw, (max-width: 1439px) 51vw, 704px" alt="About - Jacob Webflow Template" class="image-about" />
+                  <img src="assets/images/harsh/7.png" loading="lazy" srcset="assets/images/harsh/7.png 500w, assets/images/harsh/7.png 800w, assets/images/harsh/7.png 1080w" sizes="(max-width: 767px) 92vw, (max-width: 991px) 59vw, (max-width: 1439px) 51vw, 704px" alt="About - Jacob Webflow Template" class="image-about" />
                   <div class="social-media-content">
                     <div class="card-social-media">
                       <h2 class="heading-small text-color-white">follow me</h2>
