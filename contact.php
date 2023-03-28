@@ -51,13 +51,13 @@ require_once('dbConfig.php');
                         <div class="text-size-regular text-color-grey">Reach out through the form and I&#x27;ll get back to you in the next 24 hours.</div>
                       </div>
                       <div class="contact-links">
-                        <a href="contact.html#" class="link-wrapper contact-link w-inline-block">
+                        <a class="link-wrapper contact-link w-inline-block">
                           <div class="margin-bottom margin-tiny">
                             <div class="text-size-regular text-weight-semibold text-color-black">Send me an email</div>
                           </div>
-                          <div class="text-size-regular text-color-grey">hello@harshshroff.com</div>
+                          <div class="text-size-regular text-color-grey">shroff.hh@gmail.com</div>
                         </a>
-                        <a href="contact.html#" class="link-wrapper contact-link w-inline-block">
+                        <a class="link-wrapper contact-link w-inline-block">
                           <div class="margin-bottom margin-tiny">
                             <div class="text-size-regular text-weight-semibold text-color-black">Give me a call</div>
                           </div>
@@ -87,7 +87,7 @@ require_once('dbConfig.php');
                             <textarea id="Text-Message" name="Text-Message" maxlength="5000" data-name="Text Message" placeholder="Message..." class="input message-area w-input"></textarea>
                           </div>
                           <div id="w-node-e28e5781-75bc-f77c-4dc1-2b4ee09cacfb-2545aff0" class="form-button-wrapper">
-                            <a data-w-id="e28e5781-75bc-f77c-4dc1-2b4ee09cacfc" style="background-color:rgb(16,17,24)" href="contact.html#" class="button w-inline-block">
+                            <a data-w-id="e28e5781-75bc-f77c-4dc1-2b4ee09cacfc" style="background-color:rgb(16,17,24)" class="button w-inline-block">
                               <div style="-webkit-transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="text-button-1">send message</div>
                               <div style="-webkit-transform:translate3d(0, 50PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 50PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 50PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 50PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);color:rgb(255,255,255)" class="text-button-2">send message</div>
                             </a>
@@ -132,7 +132,7 @@ require_once('dbConfig.php');
                           <div class="faq-bottom">
                             <div class="faq-bottom-content">
                               <div class="max-width-large">
-                                <p class="text-size-small text-color-grey">You can contact Harsh Shroff through the contact form on the website, by email at hello@harshshroff.com, or by phone at +91 97273 78979.</p>
+                                <p class="text-size-small text-color-grey">You can contact Harsh Shroff through the contact form on the website, by email at shroff.hh@gmail.com, or by phone at +91 97273 78979.</p>
                               </div>
                             </div>
                           </div>

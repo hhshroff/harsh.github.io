@@ -212,96 +212,39 @@ function getFooter(){
                   </div>
                 </div>
               </div>
-              <div id="w-node-_4e95a93b-6727-6d76-bc98-c51d026256e1-026256a3" class="inner-container">
-                <div class="footer-title">Utility Pages</div>
-                <div class="margin-top margin-small">
-                  <div class="nav-footer-content">
-                    <ul role="list" class="footer-nav w-list-unstyled">
-                      <li class="footer-nav-item">
-                        <a href="utility-pages/instructions.html" data-w-id="4e95a93b-6727-6d76-bc98-c51d026256fd" class="footer-nav-link w-inline-block">
-                          <div class="button-text-wrapper">
-                            <div class="text-nav-footer">Instructions</div>
-                            <div class="text-nav-footer">Instructions</div>
-                          </div>
-                        </a>
-                      </li>
-                      <li class="footer-nav-item">
-                        <a href="utility-pages/style-guide.html" data-w-id="4e95a93b-6727-6d76-bc98-c51d026256e8" class="footer-nav-link w-inline-block">
-                          <div class="button-text-wrapper">
-                            <div class="text-nav-footer">Style Guide</div>
-                            <div class="text-nav-footer">Style Guide</div>
-                          </div>
-                        </a>
-                      </li>
-                      <li class="footer-nav-item">
-                        <a href="utility-pages/licenses.html" data-w-id="4e95a93b-6727-6d76-bc98-c51d026256ef" class="footer-nav-link w-inline-block">
-                          <div class="button-text-wrapper">
-                            <div class="text-nav-footer">Licenses</div>
-                            <div class="text-nav-footer">Licenses</div>
-                          </div>
-                        </a>
-                      </li>
-                      <li class="footer-nav-item">
-                        <a href="utility-pages/changelog.html" data-w-id="4e95a93b-6727-6d76-bc98-c51d026256f6" class="footer-nav-link w-inline-block">
-                          <div class="button-text-wrapper">
-                            <div class="text-nav-footer">Changelog</div>
-                            <div class="text-nav-footer">Changelog</div>
-                          </div>
-                        </a>
-                      </li>
-                      <li class="footer-nav-item">
-                        <a href="404.html" data-w-id="4e95a93b-6727-6d76-bc98-c51d02625704" class="footer-nav-link w-inline-block">
-                          <div class="button-text-wrapper">
-                            <div class="text-nav-footer">404 Not Found</div>
-                            <div class="text-nav-footer">404 Not Found</div>
-                          </div>
-                        </a>
-                      </li>
-                      <li class="footer-nav-item">
-                        <a href="401.html" data-w-id="4e95a93b-6727-6d76-bc98-c51d0262570b" class="footer-nav-link w-inline-block">
-                          <div class="button-text-wrapper">
-                            <div class="text-nav-footer">Password Protected</div>
-                            <div class="text-nav-footer">Password Protected</div>
-                          </div>
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
               <div id="w-node-_4e95a93b-6727-6d76-bc98-c51d02625711-026256a3" class="inner-container">
                 <div class="footer-title">Contact</div>
                 <div class="margin-top margin-small">
                   <div class="nav-footer-content">
                     <ul role="list" class="footer-nav w-list-unstyled">
                       <li class="footer-nav-item">
-                        <div class="text-nav-footer">hello@harshshroff.com</div>
+                        <div class="text-nav-footer">shroff.hh@gmail.com</div>
                       </li>
                       <li class="footer-nav-item">
-                        <div class="text-nav-footer">+1 (408) 706 4692 </div>
+                        <div class="text-nav-footer">+91 972 737 8979 </div>
                       </li>
                     </ul>
                   </div>
                 </div>
                 <div class="w-layout-grid social-media-component footer">
                   <div id="w-node-_4e95a93b-6727-6d76-bc98-c51d02625726-026256a3" class="social-link-wrapper">
-                    <a id="w-node-_4e95a93b-6727-6d76-bc98-c51d02625727-026256a3" href="https://www.linkedin.com/" target="_blank" class="social-link w-inline-block">
-                      <div></div>
-                    </a>
-                  </div>
-                  <div id="w-node-_4e95a93b-6727-6d76-bc98-c51d0262572a-026256a3" class="social-link-wrapper">
-                    <a id="w-node-_4e95a93b-6727-6d76-bc98-c51d0262572b-026256a3" href="https://behance.net/" target="_blank" class="social-link w-inline-block">
-                      <div></div>
+                    <a id="w-node-_4e95a93b-6727-6d76-bc98-c51d02625727-026256a3" href="https://www.linkedin.com/in/harshshroff/" target="_blank" class="social-link w-inline-block">
+                      <div><i class="fa-brands fa-linkedin-in"></i></div>
                     </a>
                   </div>
                   <div id="w-node-_4e95a93b-6727-6d76-bc98-c51d0262572e-026256a3" class="social-link-wrapper">
-                    <a id="w-node-_4e95a93b-6727-6d76-bc98-c51d0262572f-026256a3" href="https://twitter.com/" target="_blank" class="social-link w-inline-block">
-                      <div></div>
+                    <a id="w-node-_4e95a93b-6727-6d76-bc98-c51d0262572f-026256a3" href="https://twitter.com/harshshroff0702" target="_blank" class="social-link w-inline-block">
+                      <div><i class="fa-brands fa-twitter"></i></div>
                     </a>
                   </div>
                   <div id="w-node-_4e95a93b-6727-6d76-bc98-c51d02625732-026256a3" class="social-link-wrapper">
-                    <a id="w-node-_4e95a93b-6727-6d76-bc98-c51d02625733-026256a3" href="https://facebook.com/" target="_blank" class="social-link w-inline-block">
-                      <div></div>
+                    <a id="w-node-_4e95a93b-6727-6d76-bc98-c51d02625733-026256a3" href="https://github.com/hhshroff" target="_blank" class="social-link w-inline-block">
+                      <div><i class="fa-brands fa-github"></i></div>
+                    </a>
+                  </div>
+                  <div id="w-node-_4e95a93b-6727-6d76-bc98-c51d02625732-026256a3" class="social-link-wrapper">
+                    <a id="w-node-_4e95a93b-6727-6d76-bc98-c51d02625733-026256a3" href="https://medium.com/" target="_blank" class="social-link w-inline-block">
+                      <div><i class="fa-brands fa-medium"></i></div>
                     </a>
                   </div>
                 </div>
@@ -312,7 +255,7 @@ function getFooter(){
             <div class="inner-content text-align-center">
               <div class="link-footer-wrapper">
                 <div class="text-size-small text-color-grey">Powered by</div>
-                <a href="https://tecrave.in" target="_blank" class="link-footer w-inline-block">
+                <a href="https://tecrave.org" target="_blank" class="">
                   <img src="assets/images/tecrave.png" loading="lazy" alt="tecrave" class="webflow-logo" />
                 </a>
               </div>
