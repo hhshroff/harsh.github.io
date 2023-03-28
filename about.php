@@ -20,6 +20,9 @@ require_once('dbConfig.php');
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <meta content="Harsh Shroff" name="generator" />   
     <link href="assets/css/main.css" rel="stylesheet" type="text/css" />
+
+    <script src="https://kit.fontawesome.com/85b35fcb15.js" crossorigin="anonymous"></script>
+
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
     <script type="text/javascript">
       WebFont.load({
@@ -316,33 +319,24 @@ require_once('dbConfig.php');
                       <div class="margin-top margin-medium">
                         <div class="w-layout-grid social-media-component about-me">
                           <div id="w-node-_94996a86-0a86-48c6-66fd-4d88d71277a0-58ca6daa" class="social-link-wrapper">
-                            <a id="w-node-_94996a86-0a86-48c6-66fd-4d88d71277a1-58ca6daa" href="https://www.linkedin.com/" target="_blank" class="social-link w-inline-block">
-                              <div></div>
+                            <a id="w-node-_94996a86-0a86-48c6-66fd-4d88d71277a1-58ca6daa" href="https://www.linkedin.com/in/harshshroff/" target="_blank" class="social-link w-inline-block">
+                              <div><i class="fa-brands fa-linkedin-in"></i></div>
                             </a>
                           </div>
-                          <div id="w-node-_94996a86-0a86-48c6-66fd-4d88d71277a4-58ca6daa" class="social-link-wrapper">
-                            <a id="w-node-_94996a86-0a86-48c6-66fd-4d88d71277a5-58ca6daa" href="https://behance.net/" target="_blank" class="social-link w-inline-block">
-                              <div></div>
+                          <div id="w-node-_4e95a93b-6727-6d76-bc98-c51d02625732-026256a3" class="social-link-wrapper">
+                            <a id="w-node-_4e95a93b-6727-6d76-bc98-c51d02625733-026256a3" href="https://medium.com/" target="_blank" class="social-link w-inline-block">
+                              <div><i class="fa-brands fa-medium"></i></div>
                             </a>
                           </div>
                           <div id="w-node-_94996a86-0a86-48c6-66fd-4d88d71277a8-58ca6daa" class="social-link-wrapper">
-                            <a id="w-node-_94996a86-0a86-48c6-66fd-4d88d71277a9-58ca6daa" href="https://twitter.com/" target="_blank" class="social-link w-inline-block">
-                              <div></div>
+                            <a id="w-node-_94996a86-0a86-48c6-66fd-4d88d71277a9-58ca6daa" href="https://twitter.com/harshshroff0702" target="_blank" class="social-link w-inline-block">
+                              <div><i class="fa-brands fa-twitter"></i></div>
                             </a>
                           </div>
-                          <div id="w-node-_94996a86-0a86-48c6-66fd-4d88d71277ac-58ca6daa" class="social-link-wrapper">
-                            <a id="w-node-_94996a86-0a86-48c6-66fd-4d88d71277ad-58ca6daa" href="https://facebook.com/" target="_blank" class="social-link w-inline-block">
-                              <div></div>
-                            </a>
-                          </div>
-                          <div id="w-node-_3adf4e12-83b0-037a-aa95-8a46cc9a361f-58ca6daa" class="social-link-wrapper">
-                            <a id="w-node-_6ef5674d-8b5b-325c-8c45-095b462a9483-58ca6daa" href="http://youtube.com/" target="_blank" class="social-link w-inline-block">
-                              <div></div>
-                            </a>
-                          </div>
-                          <div id="w-node-_20b25dcd-8bbd-65c9-1adf-c9b0ba2de48a-58ca6daa" class="social-link-wrapper">
-                            <a id="w-node-ef903091-f159-1ec0-8bfa-777c09f6310b-58ca6daa" href="https://www.instagram.com/" target="_blank" class="social-link w-inline-block">
-                              <div></div>
+                          
+                          <div id="w-node-_4e95a93b-6727-6d76-bc98-c51d02625732-026256a3" class="social-link-wrapper">
+                            <a id="w-node-_4e95a93b-6727-6d76-bc98-c51d02625733-026256a3" href="https://github.com/hhshroff" target="_blank" class="social-link w-inline-block">
+                              <div><i class="fa-brands fa-github"></i></div>
                             </a>
                           </div>
                         </div>

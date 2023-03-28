@@ -55,7 +55,7 @@ function getHeader(){
               </a>
             </div>
             <div class="nav-overflow-hidden nav-link-margin">
-              <a data-w-id="dc4c56e6-3035-d75f-ac11-3e0a86b79aeb" href="../works" class="nav-link _3 w-inline-block">
+              <a data-w-id="dc4c56e6-3035-d75f-ac11-3e0a86b79aeb" href="../work" class="nav-link _3 w-inline-block">
                 <div class="nav-wrapper">
                   <div class="overflow-hidden">
                     <div class="nav-text">Works</div>
@@ -105,23 +105,23 @@ function getHeader(){
         <div class="nav-menu-bottom">
           <div class="w-layout-grid social-media-component navbar">
             <div id="w-node-_879ee4be-8937-1e16-754d-b325dfbc5282-86b79ac5" class="social-link-wrapper">
-              <a id="w-node-_879ee4be-8937-1e16-754d-b325dfbc5283-86b79ac5" href="../https://www.linkedin.com/" target="_blank" class="social-link w-inline-block">
-                <div></div>
-              </a>
-            </div>
-            <div id="w-node-_879ee4be-8937-1e16-754d-b325dfbc5286-86b79ac5" class="social-link-wrapper">
-              <a id="w-node-_879ee4be-8937-1e16-754d-b325dfbc5287-86b79ac5" href="../https://behance.net/" target="_blank" class="social-link w-inline-block">
-                <div></div>
+              <a id="w-node-_879ee4be-8937-1e16-754d-b325dfbc5283-86b79ac5" href="https://www.linkedin.com/in/harshshroff/" target="_blank" class="social-link w-inline-block">
+                <div><div><i class="fa-brands fa-linkedin-in"></i></div></div>
               </a>
             </div>
             <div id="w-node-_879ee4be-8937-1e16-754d-b325dfbc528a-86b79ac5" class="social-link-wrapper">
-              <a id="w-node-_879ee4be-8937-1e16-754d-b325dfbc528b-86b79ac5" href="../https://twitter.com/" target="_blank" class="social-link w-inline-block">
-                <div></div>
+              <a id="w-node-_879ee4be-8937-1e16-754d-b325dfbc528b-86b79ac5" href="https://twitter.com/harshshroff0702" target="_blank" class="social-link w-inline-block">
+                <div><div><i class="fa-brands fa-twitter"></i></div></div>
               </a>
             </div>
             <div id="w-node-_879ee4be-8937-1e16-754d-b325dfbc528e-86b79ac5" class="social-link-wrapper">
-              <a id="w-node-_879ee4be-8937-1e16-754d-b325dfbc528f-86b79ac5" href="../https://facebook.com/" target="_blank" class="social-link w-inline-block">
-                <div></div>
+              <a id="w-node-_879ee4be-8937-1e16-754d-b325dfbc528f-86b79ac5" href="https://github.com/hhshroff" target="_blank" class="social-link w-inline-block">
+                <div><div><i class="fa-brands fa-github"></i></div></div>
+              </a>
+            </div>
+            <div id="w-node-_879ee4be-8937-1e16-754d-b325dfbc528e-86b79ac5" class="social-link-wrapper">
+              <a id="w-node-_879ee4be-8937-1e16-754d-b325dfbc528f-86b79ac5" href="https://medium.com" target="_blank" class="social-link w-inline-block">
+                <div><div><i class="fa-brands fa-medium"></i></div></div>
               </a>
             </div>
           </div>
@@ -255,7 +255,7 @@ function getFooter(){
             <div class="inner-content text-align-center">
               <div class="link-footer-wrapper">
                 <div class="text-size-small text-color-grey">Powered by</div>
-                <a href="../https://tecrave.in" target="_blank" class="link-footer w-inline-block">
+                <a href="../https://tecrave.org" target="_blank" class="link-footer w-inline-block">
                   <img src="../assets/images/tecrave.png" loading="lazy" alt="tecrave" class="webflow-logo" />
                 </a>
               </div>

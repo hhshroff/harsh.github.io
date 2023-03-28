@@ -20,6 +20,7 @@ require_once('dbConfig.php');
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <meta content="Harsh Shroff" name="generator" />   
     <link href="https://assets.website-files.com/62b38327b8e2220e110a72b0/css/jacob-template.webflow.09af418d4.min.css" rel="stylesheet" type="text/css" />
+    <script src="https://kit.fontawesome.com/85b35fcb15.js" crossorigin="anonymous"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
     <script type="text/javascript">
       WebFont.load({
