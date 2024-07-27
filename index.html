@@ -248,8 +248,8 @@
 						</div>
 						<div data-w-id="9b89b9ec-db9a-ee41-f8f2-c722c3501724" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:1" class="hero-picture-holder">
 							<div style="opacity:0" class="hero-picture-container">
-								<img src="assets/images/harsh.png" alt="Harsh" class="hero-picture" />
-								<div data-w-id="c37cb80a-4d01-29c8-25ee-c8da880075d1" class="hero-image-overlay"></div>
+								<img id="hero-picture" alt="Harsh" class="hero-picture" />
+								<div data-w-id="c37cb80a-4d01-29c8-25ee-c8da880075d1" class="hero-image-overlay"></div>				
 								<div class="picture-click-me desktop">It&#x27;s me - Harsh <br />
 									<span class="i-follow-u">Click here and I will follow :)</span>
 								</div>
@@ -751,6 +751,24 @@
 				</div>
 			</div>
 		</div>
+		<script>
+			// Array of image sources
+			const imageSources = [
+			  'assets/images/IMG_2193.png',
+			  'assets/images/IMG_4428.png',
+			  'assets/images/IMG_2507.png',
+			  // Add more image sources as needed
+			];
+		  
+			// Function to randomly select an image from the array
+			function getRandomImage() {
+			  const randomIndex = Math.floor(Math.random() * imageSources.length);
+			  return imageSources[randomIndex];
+			}
+		  
+			// Set the randomly selected image as the src of the img element
+			document.getElementById('hero-picture').src = getRandomImage();
+		  </script>
 		<script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
 		<script src="assets/js/main.js" type="text/javascript"></script>
 	</body>
