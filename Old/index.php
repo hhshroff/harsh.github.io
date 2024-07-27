@@ -75,7 +75,7 @@ require_once('dbConfig.php');
                     <h1 class="heading-huge text-color-dim-grey">from </h1>
                   </div>
                   <div class="overflow-hidden">
-                    <h1 style="-webkit-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);-moz-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);-ms-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg)" class="heading-huge">India</h1>
+                    <h1 style="-webkit-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);-moz-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);-ms-transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg);transform:translate3d(0, 150%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 7deg)" class="heading-huge">USA</h1>
                   </div>
                 </div>
                 <div class="button-header-wrapper">
